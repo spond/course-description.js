@@ -45,7 +45,7 @@
                 <div class="pull-right" id="qrcode"></div>
         <div class = "row">
                 <h1 data-receiver-for = "Title" data-style-type = "block">
-                    
+
                 </h1>
         </div>
 
@@ -80,6 +80,11 @@
             </div>
         </div>
 
+       <div class="row">
+            <div class = "col-sm-12" data-receiver-for = "Course Materials" data-style-type = "table" data-style-header = "on">
+            </div>
+        </div>
+
 
        <div class="row">
             <div class = "col-sm-12">
@@ -105,7 +110,7 @@
 
     $(document).ready (function () {
         load_course_data ("data/5111.json");
-        
+
         var qrcode = new QRCode(document.getElementById("qrcode"), {
             text: document.URL,
             width: 128,

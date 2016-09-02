@@ -1,6 +1,6 @@
 {
     "Title": {
-        "text": "BIOL 5111",
+        "text": "BIOL 3111/5111",
         "subtext": {
             "text": "Genomics in Medicine",
             "inline": true
@@ -47,6 +47,37 @@
 
         ]
     },
+
+    "Course Materials": {
+        "rows": [
+            ["Date", "Topic", "Reading"],
+            [
+                "2016-09-01", {
+                    "text": "Introduction",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/kk0paq1lamv6n2n/Lecture%201.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                ""
+            ],
+            [
+                "2016-09-08", {
+                    "text": "Sequencing technologies and basic algorithms for analysis"
+                }, {
+                    "text": "The impact of next-generation sequencing on genomics",
+                    "subtext": {
+                        "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3076108/",
+                        "link-text": "PubMed link",
+                        "type": "document"
+                    }
+                }
+            ]
+
+        ]
+    },
+
     "Learning Objectives": [{
         "text": "Learn about the different types of genomic information relevant for disease susceptibility, progression, treatment, and prevention."
     }, {
@@ -62,6 +93,9 @@
     }, {
         "text": "Evaluate how genomic medicine fits into the broader context of the sciences and modern healthcare."
     }],
+
+
+
     "Description": {
         "text": " The completion of the Human Genome Project in 2003 began a revolution in the diagnostics, treatment, and prevention of human disease. More than a decade later, the promise of personalized genome-guided medical treatment and precision medicine is becoming a reality, and is a focus of major national and international initiatives. This course will explore how genomic information has enhanced our understanding of human genetic variation, disease susceptibility, and treatment options. Students will develop familiarity with primary literature relevant to genomic medicine, and learn how to use modern computational tools to interpret genomic data in case studies and problem sets based on disease diagnosis, prevention, and treatment.  Students will complete an independent project focused on a particular disease, integrating literature review with new analyses of published data. This course takes the approach of discovery-based learning."
 

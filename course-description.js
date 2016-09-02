@@ -23,7 +23,7 @@ function grab_value(d, key, backup, default_value) {
 
 function handle_entry_object(d, container) {
     var containerd3 = d3.select(container);
-    
+
     if (_.isObject(d)) {
         var is_url = grab_value(d, "url");
         if (is_url) {
@@ -49,10 +49,10 @@ function handle_entry_object(d, container) {
             if (! _.isObject(d["subtext"]) || ! d["subtext"]["inline"]) {
                 containerd3.append("br");
                 did_br = true;
-            } 
+            }
             var subtext_container = containerd3.append("small");
             if (! did_br) {
-                subtext_container.style ("margin-left", ".5em");            
+                subtext_container.style ("margin-left", ".5em");
             }
             handle_entry_object(d["subtext"], subtext_container[0][0]);
         }
@@ -79,7 +79,8 @@ var font_awesome_decorators = {
     "home": "fa-home",
     "GitHub": "fa-github-square",
     "papers": "fa-flask",
-    "book" : "fa-book"
+    "book" : "fa-book",
+    "document" : "fa-file-text",
 };
 
 function item_decorate(type, container) {
@@ -129,7 +130,7 @@ function populate_list(container, key, data) {
         }
     }
     var the_list;
-    
+
     if (container.attr("data-list-type") == "ordered") {
         the_list = container.append ("ol");
     } else {
@@ -145,13 +146,13 @@ function populate_list(container, key, data) {
 function populate_title(container, key, data) {
 
 
-    container.each(function(d, i) {        
+    container.each(function(d, i) {
         if (container.attr("data-style-header") == "on") {
             d3.select(this.parentNode).insert("h4",":first-child").text(key);
         }
         handle_entry_object(data, this);
     });
-    
+
 }
 
 
@@ -190,9 +191,11 @@ var load_course_data = function(url) {
         if (data) {
             _.each(data, function(value, key) {
                 var container = d3.select('[data-receiver-for="' + key + '"]');
-                if (container.length == 1) {
+                if (!container.empty() && container.length == 1) {
                     var pop = data_populator[container.attr("data-style-type") || "list"];
                     if (pop) pop(container, key, value);
+                } else {
+                    console.log ("No receiver for ", key);
                 }
             });
         }
