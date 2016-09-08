@@ -50,7 +50,7 @@
 
     "Course Materials": {
         "rows": [
-            ["Date", "Topic", "Reading"],
+            ["Date", "Topic", "Reading","Assignments"],
             [
                 "2016-09-01", {
                     "text": "Introduction",
@@ -60,19 +60,40 @@
                         "type": "document"
                     }
                 },
+                "",
                 ""
             ],
             [
                 "2016-09-08", {
-                    "text": "Sequencing technologies and basic algorithms for analysis"
-                }, {
+                    "text": "Sequencing technologies and key algorithms for sequence analysis",
+                        "subtext": {
+                            "url": "https://www.dropbox.com/s/3m42p08y3r53cil/Lecture%202.pdf?dl=0",
+                            "link-text": "download slides",
+                            "type": "document"
+                        }
+                    }, {
                     "text": "The impact of next-generation sequencing on genomics",
                     "subtext": {
                         "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3076108/",
                         "link-text": "PubMed link",
                         "type": "document"
                     }
+                },
+                ""
+            ],
+            [
+                "2016-09-15",
+                    "",
+                    "",
+                    {
+                    "text": "Alignment and GenBank exercises",
+                    "subtext": {
+                        "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3076108/",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
                 }
+
             ]
 
         ]
