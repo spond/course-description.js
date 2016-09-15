@@ -82,13 +82,33 @@
                 ""
             ],
             [
-                "2016-09-15",
-                    "",
+                "2016-09-15", {
+                    "text": "Basic phylogenetics",
+                        "subtext": {
+                            "url": "https://www.dropbox.com/s/qxnh66helwaue5e/Lecture%203.pdf?dl=0",
+                            "link-text": "download slides",
+                            "type": "document"
+                        }
+                    },
                     "",
                     {
                     "text": "Alignment and GenBank exercises",
                     "subtext": {
                         "url": "https://www.dropbox.com/s/kavfxcvi1jg4d93/Lecture%202%20assignment.docx?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                }
+
+            ],
+            [
+                "2016-09-22",
+                "",
+                    "3 papers in the HW assignment",
+                    {
+                    "text": "Phylogeny exercises",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/zkogjlwh1izxrvt/Lecture%203%20assignment.docx?dl=0",
                         "link-text": "download assignment",
                         "type": "document"
                     }
