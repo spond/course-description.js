@@ -50,7 +50,7 @@
 
     "Course Materials": {
         "rows": [
-            ["Date", "Topic", "Reading","Assignments"],
+            ["Date", "Topic", "Reading","Assignments","Solution"],
             [
                 "2016-09-01", {
                     "text": "Introduction",
@@ -60,6 +60,7 @@
                         "type": "document"
                     }
                 },
+                "",
                 "",
                 ""
             ],
@@ -79,6 +80,7 @@
                         "type": "document"
                     }
                 },
+                "",
                 ""
             ],
             [
@@ -98,7 +100,15 @@
                         "link-text": "download assignment",
                         "type": "document"
                     }
-                }
+                    },
+                    {
+                    "text": "Alignment and GenBank exercises",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/y1nvvf5h5xhjx7b/solution.pdf?dl=0",
+                        "link-text": "download solution",
+                        "type": "document"
+                    }
+                    }
 
             ],
             [
@@ -112,7 +122,9 @@
                         "link-text": "download assignment",
                         "type": "document"
                     }
-                }
+                },
+                "",
+                ""
 
             ]
 
