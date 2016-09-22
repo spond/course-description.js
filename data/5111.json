@@ -112,8 +112,14 @@
 
             ],
             [
-                "2016-09-22",
-                "",
+                "2016-09-22", {
+                    "text": "Genetic Basis of Human Disease",
+                        "subtext": {
+                            "url": "https://www.dropbox.com/s/t0871q5tla9celz/Lecture%204.pdf?dl=0",
+                            "link-text": "download slides",
+                            "type": "document"
+                        }
+                    },
                     "3 papers in the HW assignment",
                     {
                     "text": "Phylogeny exercises",
@@ -125,7 +131,6 @@
                 },
                 "",
                 ""
-
             ]
 
         ]
