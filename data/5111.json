@@ -129,8 +129,14 @@
                         "type": "document"
                     }
                 },
-                "",
-                ""
+                 {
+                "text": "Phylogeny exercises",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/9hbcq3d4uday1ju/solution.pdf?dl=0",
+                    "link-text": "download solution",
+                    "type": "document"
+                }
+                }
             ]
 
         ]
