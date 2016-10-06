@@ -148,9 +148,23 @@
                         }
                     },
                     "",
+                    "Presentation",
+                    ""
+            ],
+            [
+                "2016-10-09", {
+                    "text": "Genetic Basis of Human Disease, Pt 3",
+                        "subtext": {
+                            "url": "https://www.dropbox.com/s/6tiuwl2brwincap/Lecture%206.pdf?dl=0",
+                            "link-text": "download slides",
+                            "type": "document"
+                        }
+                    },
                     "",
+                    "Presentation",
                     ""
             ]
+
 
         ]
     },
