@@ -1,0 +1,128 @@
+<html lang="en">
+
+<head>
+    <title>
+        BIOL ???? (Winter 2017)
+    </title>
+    <meta charset="utf-8">
+    <!-- Latest compiled and minified CSS -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+    <script src="http://veg.github.io/phylotree.js/phylotree.js"></script>
+    <script src="course-description.js"></script>
+    <script src="qrcode.js"></script>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link href="http://veg.github.io/phylotree.js/phylotree.css" rel="stylesheet">
+
+    <style>
+        body {
+          font-family: "Tahoma", "Arial", san-serif;
+          font-size: 12px;
+        }
+
+        .table th, .table td {
+             border-top: none !important;
+         }
+    </style>
+</head>
+
+
+    <div class="container-fluid">
+                <div class="pull-right" id="qrcode"></div>
+        <div class = "row">
+                <h1 data-receiver-for = "Title" data-style-type = "block">
+
+                </h1>
+        </div>
+
+
+
+       <div class="row">
+            <div class = "col-sm-12" data-receiver-for = "Course Information" data-style-type = "table">
+            </div>
+        </div>
+
+       <div class="row">
+            <div class = "col-sm-12">
+                <p data-receiver-for = "Description" data-style-type = "block" style = "text-align: justify; text-justify: inter-word;">
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class = "col-sm-12">
+                <p data-receiver-for = "Textbook" data-style-type = "block" data-style-header = "on">
+                </p>
+            </div>
+        </div>
+
+       <div class="row">
+            <div class = "col-sm-12" data-receiver-for = "Learning Objectives" data-style-type = "list" data-style-header = "on" data-list-type = "ordered">
+            </div>
+        </div>
+
+       <div class="row">
+            <div class = "col-sm-12" data-receiver-for = "Course topics" data-style-type = "list" data-style-header = "on" data-list-type = "ordered">
+            </div>
+        </div>
+
+       <div class="row">
+            <div class = "col-sm-12" data-receiver-for = "Course Materials" data-style-type = "table" data-style-header = "on">
+            </div>
+        </div>
+
+
+       <div class="row">
+            <div class = "col-sm-12">
+                <p data-receiver-for = "Project" data-style-type = "block" style = "text-align: justify; text-justify: inter-word;" data-style-header = "on">
+                </p>
+            </div>
+        </div>
+
+
+       <div class="row">
+            <div class = "col-sm-12" data-receiver-for = "Grading" data-style-type = "table"  data-style-header = "on">
+            </div>
+        </div>
+
+       <div class="row">
+            <div class = "col-sm-12" data-receiver-for = "Disclosures" data-style-type = "table"  data-style-header = "on">
+            </div>
+      </div>
+
+    </div>
+<script>
+
+
+    $(document).ready (function () {
+        load_course_data ("data/Winter2017.json");
+
+        var qrcode = new QRCode(document.getElementById("qrcode"), {
+            text: document.URL,
+            width: 128,
+            height: 128,
+            colorDark : "#000000",
+            colorLight : "#ffffff",
+            correctLevel : QRCode.CorrectLevel.H
+        });
+    });
+
+</script>
+
+</body>
+
+</html>

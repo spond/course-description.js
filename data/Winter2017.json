@@ -1,0 +1,133 @@
+{
+    "Title": {
+        "text": "BIOL ???? ",
+        "subtext": {
+            "text": "Bioinformatics Software for Genomic Data Analysis",
+            "inline": true
+        }
+    },
+
+    "Course Information": {
+        "rows": [
+            ["Instructor", {
+                "text": "Dr Sergei Pond",
+                "subtext": {
+                    "url": "mailto:#",
+                    "link-text": "spond@temple.edu",
+                    "print-text": "spond@temple.edu",
+                    "type": "e-mail",
+                    "inline": true
+                }
+            }],
+            ["Offered", {
+                "text": "Spring 2017"
+            }],
+            ["Time", {
+                "text": "TBD, 5:30-8:00 pm"
+            }],
+            ["Location", {
+                "text": "TBD"
+            }],
+            ["Office hours", {
+                "text": "SERC 644",
+                "type": "label",
+                "subtext": {
+                    "text": "by appointment",
+                    "inline": true
+                }
+            }],
+            ["Prerequisites", {
+                "text": "Biology 2112, Computer Literacy",
+                "type": "label",
+                "subtext": {
+                    "text": "C or better",
+                    "inline": true
+                }
+            }]
+
+        ]
+    },
+
+
+    "Learning Objectives": [{
+        "text": "What are genetic and genomic sequence data? How does one access and manipulate them."
+    }, {
+        "text": "Become conversant with essential online resources dealing with genomic data (NCBI, The Cancer Genome Atlas, etc)"
+    }, {
+        "text": "Discover key computational algorithms and ideas needed to filter, analyze, and interpret genomic data."
+    }, {
+        "text": "Learn how to use the essential toolbox of modern computational biology."
+    }, {
+        "text": "Work through several key 'end-to-end' analysis workflows that are routinely used in modern life sciences research"
+    }, {
+        "text": "Learn to appreciate how to deal with large amounts of genomic data (e.g. bacterial genomes, or cancer exomes)."
+    }],
+
+    "Description": {
+        "text": " The completion of the Human Genome Project in 2003 began a revolution in the diagnostics, treatment, and prevention of human disease. As a part of this revolution, many areas of biology has become data-driven and quantitative. Modern genomic biology, biomedicine, and evolutionary genomics, and vitally dependent on key bioinformatic tools and algorithms. This course is design to introduce students to key informatics and algorithmic concepts widely used in bioinformatics and computational biology, and to equip this with operational knowledge of the 'must-know' tools used by scientists and practitioners today. Students will complete an independent project using the tools and techniques learned in the course, integrating literature review, new analyses of published data using software tools and pipelines, data visualization and interpretation, and formal report writing. This course takes the approach of discovery-based learning. Each lecture will be structured to cover one discrete topic, with a brief background, introduction of key concepts, tutorials, and guided software exercises."
+    },
+
+    "Textbook": {
+        "text": "There is no required textbook for this course. Online lecture notes, tutorials, and primary literature will be used in the course."
+
+    },
+
+    "Course topics": [
+        "Manipulating sequence data and their derivatives.",
+        "NCBI and GenBank resources.",
+        "Domain-specific resources for next generation sequencing data, e.g., The Cancer Genome Atlas.",
+        "Similarity searching and homology, e.g. BLAST, PFAM.",
+        "Multiple sequence alignment, e.g., Clustal X, MAFFT.",
+        "Short read mapping and basic analysis, e.g. bowtie and samtools.",
+        "de novo or guided genome assembly, e.g. velvet",
+        "Phylogenetics, e.g., MEGA, MrBayes",
+        "Molecular clocks: timing speciation events and tracking the spread of viruses, e.g. MEGA and BEAST",
+        "Evolutionary models for hypothesis testing, based on pathogen and immune evolution, e.g. HyPhy.",
+        "Human genome tools, variant calling (e.g., GATK), structural variation, population analysis",
+        "Metagenomics (e.g., QIIME)"
+     ],
+
+    "Project": {
+        "text": "Students will define and complete an independent project focused on a particular research topic, integrating critical literature review with new analyses of public data based on the techniques learned in the class. Topics will be selected after consultation with the instructor. A successfully completed project will have the structure of a peer-reviewed paper: historical context and novel aspects of the research, justification and critical selection of methods, data analysis and results, and discussion of the obtained results. The quality and lucidity of writing, visual data presentation, and critical self-evaluation (i.e., what are the shortcomings and limitations of methods/data used) will each be assigned a significant weight."
+
+    },
+
+    "Grading": {
+        "subtext": "1000 points total, no make-up opportunities given except for exigent circumstances",
+        "rows": [
+            ["Class participation", {
+                "subtext": {
+                    "text": "250 pts",
+                    "type": "label",
+                    "inline": true
+                },
+
+                "text": "Classroom participation will be evaluated each class period and points assigned.  Therefore, attendance is very important to pass this class. A participation score of 0 will be assigned for classes missed without prior permission from the instructor or documentation of calamity. "
+            }],
+            ["Homework", {
+                "text": "Each class period students will be given an assignment to carry out using software and skills learned during the class. ",
+                "subtext": {
+                    "text": "400 pts",
+                    "type": "label",
+                    "inline": true
+                }
+            }],
+            ["Independent Project", {
+                "text": "The independent project report",
+                "subtext": {
+                    "text": "350 pts",
+                    "type": "label",
+                    "inline": true
+                }
+            }]
+        ]
+    },
+    "Disclosures": {
+
+        "rows": [
+            ["Civility & Temple's Code of Conduct (CoC)", "Violations of the CoC include, but are not limited to: academic dishonesty and impropriety, including plagiarism and  academic cheating; interfering or attempting to interfere with or disrupting the conduct  of classes or any other normal or regular activities of the University (see: http://policies.temple.edu/getdoc.asp?policy_no=03.70.12)"],
+            ["Disability Disclosure", "Any student who has need for accommodation based on the impact of a disability should contact the instructor privately to discuss the specific situation as soon as possible. In addition, Disability Resourcesshould be contacted at 215-204-1280"],
+            ["Student/Faculty Academic Rights and Responsibilities", "The University’s policy can be accessed through the following link: http://policies.temple.edu/getdoc.asp?policy_no=03.70.02"]
+        ]
+    }
+}
