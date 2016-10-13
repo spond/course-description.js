@@ -152,7 +152,7 @@
                     ""
             ],
             [
-                "2016-10-09", {
+                "2016-10-06", {
                     "text": "Genetic Basis of Human Disease, Pt 3",
                         "subtext": {
                             "url": "https://www.dropbox.com/s/6tiuwl2brwincap/Lecture%206.pdf?dl=0",
@@ -162,6 +162,35 @@
                     },
                     "",
                     "Presentation",
+                    ""
+            ],
+            [
+                "2016-10-13", {
+                    "text": "Genetic Basis of Human Disease, Pt 4",
+                        "subtext": {
+                            "url": "https://www.dropbox.com/s/hs2bma36zebzn93/Lecture%207.pdf?dl=0",
+                            "link-text": "download slides",
+                            "type": "document"
+                        }
+                    },
+                    "",
+                    "Presentation",
+                    ""
+            ],
+            [
+                "2016-10-20", {
+                    "text": "No class",
+                    "subtext": "Midterm research paper, due 10/24/2016 (noon EST)"
+                    },
+                    "",
+                    {
+                    "text": "Midterm paper ",
+                    "subtext": {
+                        "url" : "https://www.dropbox.com/s/hs2bma36zebzn93/Lecture%207.pdf?dl=0",
+                        "link-text" : "See last three pages",
+                        "type": "document"
+                    }
+                    },
                     ""
             ]
 
