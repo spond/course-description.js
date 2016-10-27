@@ -192,7 +192,21 @@
                     }
                     },
                     ""
+            ],
+            [
+                "2016-10-27", {
+                    "text": "Bacterial Genomics",
+                        "subtext": {
+                            "url": "https://www.dropbox.com/s/53l1k3w8qtx7n9g/Lecture%208.pdf?dl=0",
+                            "link-text": "download slides",
+                            "type": "document"
+                        }
+                    },
+                    "",
+                    "",
+                    ""
             ]
+
 
 
         ]
