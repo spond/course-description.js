@@ -205,7 +205,34 @@
                     "",
                     "",
                     ""
+            ],
+            [
+                "2016-11-03", {
+                    "text": "Viral pathogens",
+                        "subtext": {
+                            "url": "https://www.dropbox.com/s/xhh6wyn9rpohjpu/Lecture9_SJS.pdf?dl=0",
+                            "link-text": "download slides",
+                            "type": "document"
+                        }
+                    },
+                    "",
+                    "",
+                    ""
+            ],
+            [
+                "2016-11-10", {
+                    "text": "Metagenomics",
+                        "subtext": {
+                            "url": "https://www.dropbox.com/s/rakh73s7ni01tl7/Lecture%2010.pdf?dl=0",
+                            "link-text": "download slides",
+                            "type": "document"
+                        }
+                    },
+                    "",
+                    "Presentation",
+                    ""
             ]
+
 
 
 
