@@ -1,8 +1,8 @@
 {
     "Title": {
-        "text": "BIOL ???? ",
+        "text": " BIOL 3380 - 001 ",
         "subtext": {
-            "text": "Bioinformatics Software for Genomic Data Analysis",
+            "text": "Genome Analytics",
             "inline": true
         }
     },
@@ -23,10 +23,10 @@
                 "text": "Spring 2017"
             }],
             ["Time", {
-                "text": "TBD, 5:30-8:00 pm"
+                "text": "Wednesdays, 5:30-8:00 pm"
             }],
             ["Location", {
-                "text": "TBD"
+                "text": "BIOSCI 332"
             }],
             ["Office hours", {
                 "text": "SERC 644",
