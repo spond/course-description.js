@@ -244,7 +244,21 @@
                     "",
                     "",
                     ""
+            ],
+            [
+                "2016-12-23",
+                    "Final project",
+                    "",
+                    {"text": "Due at noon EST",
+                        "subtext": {
+                            "url": "https://www.dropbox.com/s/fxkmr608fn4pciw/BIOL%203111-5111%20Final%20Project.pdf?dl=0",
+                            "link-text": "project description",
+                            "type": "document"
+                        }
+                    },
+                    ""
             ]
+
 
         ]
     },
