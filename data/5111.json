@@ -245,7 +245,20 @@
                     "",
                     ""
             ],
-            [
+             [
+                "2016-12-08", {
+                    "text": "Ethical issues in genomic and personalized medicine",
+                        "subtext": {
+                            "url": "https://www.dropbox.com/s/xoz2vg44zrfpk0i/Lecture%2013.pdf?dl=0",
+                            "link-text": "download slides",
+                            "type": "document"
+                        }
+                    },
+                    "",
+                    "",
+                    ""
+            ],
+           [
                 "2016-12-23",
                     "Final project",
                     "",
