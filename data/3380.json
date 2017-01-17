@@ -1,6 +1,6 @@
 {
     "Title": {
-        "text": " BIOL 3380 - 001 ",
+        "text": " BIOL 3380 / 8250 ",
         "subtext": {
             "text": "Genome Analytics",
             "inline": true
@@ -105,7 +105,7 @@
                 "text": "Classroom participation will be evaluated each class period and points assigned.  Therefore, attendance is very important to pass this class. A participation score of 0 will be assigned for classes missed without prior permission from the instructor or documentation of calamity. "
             }],
             ["Homework", {
-                "text": "Each class period students will be given an assignment to carry out using software and skills learned during the class. ",
+                "text": "Most class period students will be given an assignment to carry out using software and skills learned during the class. Students will be expected to give short in-class presentations at least once a semester. ",
                 "subtext": {
                     "text": "400 pts",
                     "type": "label",
