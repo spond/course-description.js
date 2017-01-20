@@ -48,6 +48,31 @@
         ]
     },
 
+    "Course Materials": {
+        "rows": [
+            ["Date", "Topic", "Reading","Assignments","Solution"],
+            [
+                "2017-01-18", {
+                    "text": "Introduction",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/w6l52b1uh5mfwgq/Lecture1.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                { "text": "Due 2017-01-25 [prepare to discuss in class and answer questions]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/bo31bmy47zh2y8a/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
+                ""
+            ]
+        ]
+    },
+
 
     "Learning Objectives": [{
         "text": "What are genetic and genomic sequence data? How does one access and manipulate them."
@@ -91,6 +116,7 @@
         "text": "Students will define and complete an independent project focused on a particular research topic, integrating critical literature review with new analyses of public data based on the techniques learned in the class. Topics will be selected after consultation with the instructor. A successfully completed project will have the structure of a peer-reviewed paper: historical context and novel aspects of the research, justification and critical selection of methods, data analysis and results, and discussion of the obtained results. The quality and lucidity of writing, visual data presentation, and critical self-evaluation (i.e., what are the shortcomings and limitations of methods/data used) will each be assigned a significant weight."
 
     },
+
 
     "Grading": {
         "subtext": "1000 points total, no make-up opportunities given except for exigent circumstances",
