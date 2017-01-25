@@ -69,7 +69,21 @@
                     }
                 },
                 ""
+            ],
+            [
+                "2017-01-25", {
+                    "text": "Similarity Searching and homology",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/va79bayxx6s43um/Lecture%202.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                "",
+                ""
             ]
+
         ]
     },
 
