@@ -101,8 +101,20 @@
                 "",
                 "No assignment for this period. Please set up an account on usegalaxy.org",
                 ""
+            ],
+            [
+                "2017-02-08", {
+                    "text": "Read mapping and variant detection Ⅰ",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/zv0h8ffv7gx2t0j/Lecture%204.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                "Will be posted on 2017-02-09",
+                ""
             ]
-
 
         ]
     },
