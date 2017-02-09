@@ -112,9 +112,30 @@
                     }
                 },
                 "",
-                "Will be posted on 2017-02-09",
+                { "text": "Due 2017-02-15 [prepare to discuss in class and answer questions]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/f38uws8962dx6uf/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
+                ""
+            ],
+            [
+                "2017-02-15", {
+                    "text": "Read mapping and variant detection ⅠI"
+                },
+                { "text": "An overview of variant calling software",
+                    "subtext": {
+                        "url": "http://www.nature.com/articles/srep17875",
+                        "link-text": "Article text",
+                        "type": "document"
+                    }
+                },
+                "",
                 ""
             ]
+
 
         ]
     },
