@@ -123,7 +123,12 @@
             ],
             [
                 "2017-02-15", {
-                    "text": "Read mapping and variant detection ⅠI"
+                    "text": "Read mapping and variant detection ⅠI",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/86c639nyee8wie7/sjs_lecture.pptx?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
                 },
                 { "text": "An overview of variant calling software",
                     "subtext": {
@@ -134,7 +139,27 @@
                 },
                 "",
                 ""
+            ],
+            [
+                "2017-02-22", {
+                    "text": "Genome intervals and mapping analysis",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/gjeacey8m0utein/Lecture%206.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                { "text": "Due 2017-03-01 [prepare to discuss in class and answer questions]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/ga6ik8cxn0oy84c/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
+                ""
             ]
+
 
 
         ]
