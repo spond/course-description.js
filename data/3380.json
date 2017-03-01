@@ -158,6 +158,19 @@
                     }
                 },
                 ""
+            ],
+            [
+                "2017-03-01", {
+                    "text": "RNA-seq",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/n7ahqzrkaofpts8/Lecture%207.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                "",
+                ""
             ]
 
 
