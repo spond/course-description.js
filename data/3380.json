@@ -168,8 +168,20 @@
                         "type": "document"
                     }
                 },
-                "",
-                "",
+                { "text": "An RNA-Seq pipeline",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/sp03ibdxau2bsih/tophat.pdf?dl=0",
+                        "link-text": "Article text",
+                        "type": "document"
+                    }
+                },
+                { "text": "Due 2017-03-08 [prepare to discuss in class and answer questions]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/e83lqrrzgi4pl2o/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
                 ""
             ]
 
