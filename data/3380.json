@@ -183,6 +183,25 @@
                     }
                 },
                 ""
+            ],
+            [
+                "2017-03-08", {
+                    "text": "Genome assembly",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/qo8sh5ijdhdec7b/Lecture%208.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                { "text": "De novo genome assembly: what every biologist should know",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/pgyobc39b9v2rt2/nmeth.1935.pdf?dl=0",
+                        "link-text": "Article text",
+                        "type": "document"
+                    }
+                },
+                "",
+                ""
             ]
 
 
