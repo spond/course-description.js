@@ -200,7 +200,13 @@
                         "type": "document"
                     }
                 },
-                "",
+                { "text": "Due 2017-03-22 [prepare to discuss in class and answer questions]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/ccnr23etko6p0lu/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
                 ""
             ]
 
