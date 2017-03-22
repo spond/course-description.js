@@ -208,10 +208,20 @@
                     }
                 },
                 ""
+            ],
+            [
+                "2017-03-22", {
+                    "text": "Multiple sequence alignment",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/58v21llw1y3zqno/Lecture%209.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                "",
+                ""
             ]
-
-
-
         ]
     },
 
