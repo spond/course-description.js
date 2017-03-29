@@ -227,6 +227,19 @@
                     }
                 },
                 ""
+            ],
+            [
+                "2017-03-29", {
+                    "text": "Essential phylogenetics",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/9ddc0f6tvbnest2/Lecture10.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                "",
+                ""
             ]
         ]
     },
