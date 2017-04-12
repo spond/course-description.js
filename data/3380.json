@@ -251,7 +251,7 @@
                 "2017-04-05", {
                     "text": "Statistical significance and method performance",
                     "subtext": {
-                        "url": " https://www.dropbox.com/s/ty5aizd4fvzt8hv/Lecture11.pdf?dl=0",
+                        "url": "https://www.dropbox.com/s/ty5aizd4fvzt8hv/Lecture11.pdf?dl=0",
                         "link-text": "download slides",
                         "type": "document"
                     }
@@ -259,10 +259,20 @@
                 "",
                 "",
                 ""
-            ]
-
- 
-  
+            ],
+            [
+                "2017-04-12", {
+                    "text": "Metagenomics",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/epmvqgp9jf0jok9/Lecture%2012.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                "",
+                ""
+            ] 
         ]
     },
 
