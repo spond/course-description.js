@@ -272,7 +272,21 @@
                 "",
                 "",
                 ""
-            ] 
+            ], 
+            [
+                "2017-04-19", {
+                    "text": "Guest lecture"
+                },
+                "",
+                { "text": "Due 2017-04-26 [prepare to discuss in class and answer questions]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/l1zti1pllsctj64/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
+                 ""
+           ] 
         ]
     },
 
