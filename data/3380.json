@@ -272,7 +272,7 @@
                 "",
                 "",
                 ""
-            ], 
+            ],
             [
                 "2017-04-19", {
                     "text": "Guest lecture"
@@ -286,7 +286,22 @@
                     }
                 },
                  ""
-           ] 
+           ],
+           [
+                "2017-04-26", {
+                    "text": "Student presentations and discussion"
+                },
+                "",
+                { "text": "Final project Due 2017-05-10",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/2zpc5kqyhe3w3ao/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
+                 ""
+           ]
+
         ]
     },
 
