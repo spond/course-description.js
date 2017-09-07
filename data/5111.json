@@ -140,5 +140,30 @@
             ["Disability Disclosure", "Any student who has need for accommodation based on the impact of a disability should contact the instructor privately to discuss the specific situation as soon as possible. In addition, Disability Resourcesshould be contacted at 215-204-1280"],
             ["Student/Faculty Academic Rights and Responsibilities", "The University’s policy can be accessed through the following link: http://policies.temple.edu/getdoc.asp?policy_no=03.70.02"]
         ]
+    },
+    "Course Materials": {
+        "rows": [
+                ["Date", "Topic", "Reading","Assignments","Solution"],
+                [
+                    "2017-09-07", {
+                        "text": "Similarity Searching and Basic Alignment",
+                        "subtext": {
+                            "url": "https://www.dropbox.com/s/stt6k0cgdjv2s5p/Lecture%202.pdf?dl=0",
+                            "link-text": "download slides",
+                            "type": "document"
+                        }
+                    },
+                    "",
+                    { "text": "Due 2017-09-14 [prepare to discuss in class and answer questions]",
+                        "subtext": {
+                            "url": "https://www.dropbox.com/s/ib1m3o7ez84hv94/HW1.pdf?dl=0",
+                            "link-text": "download assignment",
+                            "type": "document"
+                        }
+                    },
+                    ""
+                ]
+            ]
     }
+
 }
