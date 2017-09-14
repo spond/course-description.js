@@ -162,8 +162,29 @@
                         }
                     },
                     ""
-                ]
+                ],
+                [
+                        "2017-09-14", {
+                            "text": "Multiple sequence alignment and phylogenies",
+                            "subtext": {
+                                "url": "https://www.dropbox.com/s/vzgen0r063cigx2/Lecture%203.pdf?dl=0",
+                                "link-text": "download slides",
+                                "type": "document"
+                            }
+                        },
+                        "",
+                        { "text": "Due 2017-09-21 [prepare to discuss in class and answer questions]",
+                            "subtext": {
+                                "url": "https://www.dropbox.com/s/sy9q6c5ux5kf91o/HW2.pdf?dl=0",
+                                "link-text": "download assignment",
+                                "type": "document"
+                            }
+                        },
+                        ""
+                    ]
             ]
+            
+
     }
 
 }
