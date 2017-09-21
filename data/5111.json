@@ -1,190 +1,245 @@
 {
-    "Title": {
-        "text": "BIOL 3111/5111",
-        "subtext": {
-            "text": "Genomics in Medicine",
-            "inline": true
-        }
-    },
-
-    "Course Information": {
-        "rows": [
-            ["Instructor", {
-                "text": "Dr Sergei Pond",
-                "subtext": {
-                    "url": "mailto:#",
-                    "link-text": "spond@temple.edu",
-                    "print-text": "spond@temple.edu",
-                    "type": "e-mail",
-                    "inline": true
-                }
-            }],
-            ["Offered", {
-                "text": "Fall 2017"
-            }],
-            ["Time", {
-                "text": "Thursdays, 5:30-8:00 pm"
-            }],
-            ["Location", {
-                "text": "BIOSCI 332"
-            }],
-            ["Office hours", {
-                "text": "SERC 644",
-                "type": "label",
-                "subtext": {
-                    "text": "by appointment",
-                    "inline": true
-                }
-            }],
-            ["Prerequisites", {
-                "text": "Biology 2112",
-                "type": "label",
-                "subtext": {
-                    "text": "C or better",
-                    "inline": true
-                }
-            }]
-
-        ]
-    },
-
-
-    "Learning Objectives": [{
-        "text": "Learn about the different types of genomic information relevant for disease susceptibility, progression, treatment, and prevention."
-    }, {
-        "text": "Become familiar with the history, present, and future of genomic and personalized medicine."
-    }, {
-        "text": "Develop familiarity with primary literature related to genomic medicine (review articles, case studies, methods)."
-    }, {
-        "text": "Apply core principles and methods of genomic medicine to solve problem sets and understand case studies."
-    }, {
-        "text": "Discover key computational tools needed to filter, analyze, and interpret genomic data in the context of disease diagnosis, prevention, and treatment."
-    }, {
-        "text": "Understand the impact of diverse pathogen genomic data on diagnostics and treatment."
-    }, {
-        "text": "Evaluate how genomic medicine fits into the broader context of the sciences and modern healthcare."
-    }],
-
-
-
-    "Description": {
-        "text": " The completion of the Human Genome Project in 2003 began a revolution in the diagnostics, treatment, and prevention of human disease. More than a decade later, the promise of personalized genome-guided medical treatment and precision medicine is becoming a reality, and is a focus of major national and international initiatives. This course will explore how genomic information has enhanced our understanding of human genetic variation, disease susceptibility, and treatment options. Students will develop familiarity with primary literature relevant to genomic medicine, and learn how to use modern computational tools to interpret genomic data in case studies and problem sets based on disease diagnosis, prevention, and treatment.  Students will complete an independent project focused on a particular disease, integrating literature review with new analyses of published data. This course takes the approach of discovery-based learning."
-
-    },
-
-    "Textbook": {
-        "text": "There is no required textbook for this course. Online lecture notes and primary references will be used throughout.",
-        "subtext": {
-            "url": "http://www.amazon.com/Exploring-Personal-Genomics-Joel-Dudley/dp/0199644497",
-            "link-text": "Suggested reference: Exploring Personal Genomics by Dudley and Karczewski (1st Edition, Oxford University Press)",
-            "print-text": "Suggested reference: Exploring Personal Genomics by Dudley and Karczewski (1st Edition, Oxford University Press)",
-            "type": "book"
-        }
-    },
-
-    "Course topics": [
-        "What is genomic medicine?",
-        "What makes one more or less susceptible to a disease: genomic and other determinants",
-        "Different types of genomic data: genomes, exomes, transcriptomes, microbiomes, immune repertoires, pathogen genomes, etc.",
-        "Modern sequencing technologies used in genomic medicine",
-        "Key bioinformatics tools and concepts used for data analysis and interpretation: mapping, variant calling, haplotype assembly, structural variation",
-        "Sequence-based diagnostics: prenatal and rare disease",
-        "Cancer genomics and diagnostics",
-        "Pharmacogenomics and personalized treatment",
-        "The human microbiome",
-        "Immunity and auto-immune diseases: a genomic perspective",
-        "Pathogen genomics: diagnostics, drug resistance, and vaccine design",
-        "Clinical trials and efficacy evaluation in the age of genomic medicine",
-        "Ethical considerations and complications of genomic medicine"
-    ],
-
-    "Project": {
-        "text": "Students will define and complete an independent project focused on a particular disease topic, integrating critical literature review with new analyses of public data based on the techniques learned in the class. Topics will be selected after consultation with the instructor. A successfully completed project will have the structure of a peer-reviewed paper: historical context and novel aspects of the research, justification and critical selection of methods, data analysis and results, and discussion of the obtained results. The quality and lucidity of writing, visual data presentation, and critical self-evaluation (i.e., what are the shortcomings and limitations of methods/data used) will each be assigned a significant weight."
-
-    },
-
-    "Grading": {
-        "subtext": "1000 points total, no make-up opportunities given except for exigent circumstances",
-        "rows": [
-            ["Class participation", {
-                "subtext": {
-                    "text": "250 pts",
-                    "type": "label",
-                    "inline": true
-                },
-
-                "text": "Classroom participation will be evaluated each class period and points assigned.  Therefore, attendance is very important to pass this class. A participation score of 0 will be assigned for classes missed without prior permission from the instructor or documentation of calamity"
-            }],
-            ["Mid-term exam", {
-                "text": "A take-home midterm exam which will ask the students to apply a set of bioinformatics tools and analytical approaches to a case study, and document their results as a written report. The students will have one week to complete the exam and write their report",
-                "subtext": {
-                    "text": "250 pts",
-                    "type": "label",
-                    "inline": true
-                }
-            }],
-            ["Independent Project", {
-                "text": "The independent project report",
-                "subtext": {
-                    "text": "500 pts",
-                    "type": "label",
-                    "inline": true
-                }
-            }]
-        ]
-    },
-    "Disclosures": {
-
-        "rows": [
-            ["Civility & Temple's Code of Conduct (CoC)", "Violations of the CoC include, but are not limited to: academic dishonesty and impropriety, including plagiarism and  academic cheating; interfering or attempting to interfere with or disrupting the conduct  of classes or any other normal or regular activities of the University (see: http://policies.temple.edu/getdoc.asp?policy_no=03.70.12)"],
-            ["Disability Disclosure", "Any student who has need for accommodation based on the impact of a disability should contact the instructor privately to discuss the specific situation as soon as possible. In addition, Disability Resourcesshould be contacted at 215-204-1280"],
-            ["Student/Faculty Academic Rights and Responsibilities", "The University’s policy can be accessed through the following link: http://policies.temple.edu/getdoc.asp?policy_no=03.70.02"]
-        ]
-    },
-    "Course Materials": {
-        "rows": [
-                ["Date", "Topic", "Reading","Assignments","Solution"],
-                [
-                    "2017-09-07", {
-                        "text": "Similarity Searching and Basic Alignment",
-                        "subtext": {
-                            "url": "https://www.dropbox.com/s/stt6k0cgdjv2s5p/Lecture%202.pdf?dl=0",
-                            "link-text": "download slides",
-                            "type": "document"
-                        }
-                    },
-                    "",
-                    { "text": "Due 2017-09-14 [prepare to discuss in class and answer questions]",
-                        "subtext": {
-                            "url": "https://www.dropbox.com/s/ib1m3o7ez84hv94/HW1.pdf?dl=0",
-                            "link-text": "download assignment",
-                            "type": "document"
-                        }
-                    },
-                    ""
-                ],
-                [
-                        "2017-09-14", {
-                            "text": "Multiple sequence alignment and phylogenies",
-                            "subtext": {
-                                "url": "https://www.dropbox.com/s/vzgen0r063cigx2/Lecture%203.pdf?dl=0",
-                                "link-text": "download slides",
-                                "type": "document"
-                            }
-                        },
-                        "",
-                        { "text": "Due 2017-09-21 [prepare to discuss in class and answer questions]",
-                            "subtext": {
-                                "url": "https://www.dropbox.com/s/sy9q6c5ux5kf91o/HW2.pdf?dl=0",
-                                "link-text": "download assignment",
-                                "type": "document"
-                            }
-                        },
-                        ""
-                    ]
-            ]
-            
-
+  "Title": {
+    "text": "BIOL 3111/5111",
+    "subtext": {
+      "text": "Genomics in Medicine",
+      "inline": true
     }
-
+  },
+  "Course Information": {
+    "rows": [
+      [
+        "Instructor",
+        {
+          "text": "Dr Sergei Pond",
+          "subtext": {
+            "url": "mailto:#",
+            "link-text": "spond@temple.edu",
+            "print-text": "spond@temple.edu",
+            "type": "e-mail",
+            "inline": true
+          }
+        }
+      ],
+      [
+        "Offered",
+        {
+          "text": "Fall 2017"
+        }
+      ],
+      [
+        "Time",
+        {
+          "text": "Thursdays, 5:30-8:00 pm"
+        }
+      ],
+      [
+        "Location",
+        {
+          "text": "BIOSCI 332"
+        }
+      ],
+      [
+        "Office hours",
+        {
+          "text": "SERC 644",
+          "type": "label",
+          "subtext": {
+            "text": "by appointment",
+            "inline": true
+          }
+        }
+      ],
+      [
+        "Prerequisites",
+        {
+          "text": "Biology 2112",
+          "type": "label",
+          "subtext": {
+            "text": "C or better",
+            "inline": true
+          }
+        }
+      ]
+    ]
+  },
+  "Learning Objectives": [
+    {
+      "text": "Learn about the different types of genomic information relevant for disease susceptibility, progression, treatment, and prevention."
+    },
+    {
+      "text": "Become familiar with the history, present, and future of genomic and personalized medicine."
+    },
+    {
+      "text": "Develop familiarity with primary literature related to genomic medicine (review articles, case studies, methods)."
+    },
+    {
+      "text": "Apply core principles and methods of genomic medicine to solve problem sets and understand case studies."
+    },
+    {
+      "text": "Discover key computational tools needed to filter, analyze, and interpret genomic data in the context of disease diagnosis, prevention, and treatment."
+    },
+    {
+      "text": "Understand the impact of diverse pathogen genomic data on diagnostics and treatment."
+    },
+    {
+      "text": "Evaluate how genomic medicine fits into the broader context of the sciences and modern healthcare."
+    }
+  ],
+  "Description": {
+    "text": " The completion of the Human Genome Project in 2003 began a revolution in the diagnostics, treatment, and prevention of human disease. More than a decade later, the promise of personalized genome-guided medical treatment and precision medicine is becoming a reality, and is a focus of major national and international initiatives. This course will explore how genomic information has enhanced our understanding of human genetic variation, disease susceptibility, and treatment options. Students will develop familiarity with primary literature relevant to genomic medicine, and learn how to use modern computational tools to interpret genomic data in case studies and problem sets based on disease diagnosis, prevention, and treatment.  Students will complete an independent project focused on a particular disease, integrating literature review with new analyses of published data. This course takes the approach of discovery-based learning."
+  },
+  "Textbook": {
+    "text": "There is no required textbook for this course. Online lecture notes and primary references will be used throughout.",
+    "subtext": {
+      "url": "http://www.amazon.com/Exploring-Personal-Genomics-Joel-Dudley/dp/0199644497",
+      "link-text": "Suggested reference: Exploring Personal Genomics by Dudley and Karczewski (1st Edition, Oxford University Press)",
+      "print-text": "Suggested reference: Exploring Personal Genomics by Dudley and Karczewski (1st Edition, Oxford University Press)",
+      "type": "book"
+    }
+  },
+  "Course topics": [
+    "What is genomic medicine?",
+    "What makes one more or less susceptible to a disease: genomic and other determinants",
+    "Different types of genomic data: genomes, exomes, transcriptomes, microbiomes, immune repertoires, pathogen genomes, etc.",
+    "Modern sequencing technologies used in genomic medicine",
+    "Key bioinformatics tools and concepts used for data analysis and interpretation: mapping, variant calling, haplotype assembly, structural variation",
+    "Sequence-based diagnostics: prenatal and rare disease",
+    "Cancer genomics and diagnostics",
+    "Pharmacogenomics and personalized treatment",
+    "The human microbiome",
+    "Immunity and auto-immune diseases: a genomic perspective",
+    "Pathogen genomics: diagnostics, drug resistance, and vaccine design",
+    "Clinical trials and efficacy evaluation in the age of genomic medicine",
+    "Ethical considerations and complications of genomic medicine"
+  ],
+  "Project": {
+    "text": "Students will define and complete an independent project focused on a particular disease topic, integrating critical literature review with new analyses of public data based on the techniques learned in the class. Topics will be selected after consultation with the instructor. A successfully completed project will have the structure of a peer-reviewed paper: historical context and novel aspects of the research, justification and critical selection of methods, data analysis and results, and discussion of the obtained results. The quality and lucidity of writing, visual data presentation, and critical self-evaluation (i.e., what are the shortcomings and limitations of methods/data used) will each be assigned a significant weight."
+  },
+  "Grading": {
+    "subtext": "1000 points total, no make-up opportunities given except for exigent circumstances",
+    "rows": [
+      [
+        "Class participation",
+        {
+          "subtext": {
+            "text": "250 pts",
+            "type": "label",
+            "inline": true
+          },
+          "text": "Classroom participation will be evaluated each class period and points assigned.  Therefore, attendance is very important to pass this class. A participation score of 0 will be assigned for classes missed without prior permission from the instructor or documentation of calamity"
+        }
+      ],
+      [
+        "Mid-term exam",
+        {
+          "text": "A take-home midterm exam which will ask the students to apply a set of bioinformatics tools and analytical approaches to a case study, and document their results as a written report. The students will have one week to complete the exam and write their report",
+          "subtext": {
+            "text": "250 pts",
+            "type": "label",
+            "inline": true
+          }
+        }
+      ],
+      [
+        "Independent Project",
+        {
+          "text": "The independent project report",
+          "subtext": {
+            "text": "500 pts",
+            "type": "label",
+            "inline": true
+          }
+        }
+      ]
+    ]
+  },
+  "Disclosures": {
+    "rows": [
+      [
+        "Civility & Temple's Code of Conduct (CoC)",
+        "Violations of the CoC include, but are not limited to: academic dishonesty and impropriety, including plagiarism and  academic cheating; interfering or attempting to interfere with or disrupting the conduct  of classes or any other normal or regular activities of the University (see: http://policies.temple.edu/getdoc.asp?policy_no=03.70.12)"
+      ],
+      [
+        "Disability Disclosure",
+        "Any student who has need for accommodation based on the impact of a disability should contact the instructor privately to discuss the specific situation as soon as possible. In addition, Disability Resourcesshould be contacted at 215-204-1280"
+      ],
+      [
+        "Student/Faculty Academic Rights and Responsibilities",
+        "The University’s policy can be accessed through the following link: http://policies.temple.edu/getdoc.asp?policy_no=03.70.02"
+      ]
+    ]
+  },
+  "Course Materials": {
+    "rows": [
+      [
+        "Date",
+        "Topic",
+        "Reading",
+        "Assignments",
+        "Solution"
+      ],
+      [
+        "2017-09-07",
+        {
+          "text": "Similarity Searching and Basic Alignment",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/stt6k0cgdjv2s5p/Lecture%202.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Due 2017-09-14 [prepare to discuss in class and answer questions]",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/ib1m3o7ez84hv94/HW1.pdf?dl=0",
+            "link-text": "download assignment",
+            "type": "document"
+          }
+        },
+        ""
+      ],
+      [
+        "2017-09-14",
+        {
+          "text": "Multiple sequence alignment and phylogenies",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/vzgen0r063cigx2/Lecture%203.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Due 2017-09-21 [prepare to discuss in class and answer questions]",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/sy9q6c5ux5kf91o/HW2.pdf?dl=0",
+            "link-text": "download assignment",
+            "type": "document"
+          }
+        },
+        ""
+      ],
+      [
+        "2017-09-21",
+        {
+          "text": "Genetic basis of human disease (part 1)",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/ee28wuwyknwuand/Lecture%204.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Due 2017-09-28 [prepare a short presentation; send to me by e-mail]",
+          "subtext": {
+            "text": "last slide of lecture nodes describes the assignment"
+          }
+        },
+        ""
+      ]
+    ]
+  }
 }
