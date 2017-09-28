@@ -219,7 +219,14 @@
             "type": "document"
           }
         },
-        ""
+       {
+          "text": "HW2 solution",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/9hbcq3d4uday1ju/solution.pdf?dl=0",
+            "link-text": "download",
+            "type": "document"
+          }
+        }
       ],
       [
         "2017-09-21",
@@ -234,6 +241,25 @@
         "",
         {
           "text": "Due 2017-09-28 [prepare a short presentation; send to me by e-mail]",
+          "subtext": {
+            "text": "last slide of lecture nodes describes the assignment"
+          }
+        },
+        ""
+      ],
+      [
+        "2017-09-28",
+        {
+          "text": "Genetic basis of human disease (part 2)",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/1kg987u2l33fwg8/Lecture%205.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Due 2017-10-05 [prepare a short presentation; send to me by e-mail]",
           "subtext": {
             "text": "last slide of lecture nodes describes the assignment"
           }
