@@ -284,7 +284,26 @@
           }
         },
         ""
-      ]
+      ],
+      [
+        "2017-10-12",
+        {
+          "text": "Genetic basis of human disease (part 4)",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/eu7zms77g0x0ftl/Lecture%207.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Due 2017-10-19 [prepare a short presentation; send to me by e-mail]",
+          "subtext": {
+            "text": "last slide of lecture nodes describes the assignment"
+          }
+        },
+        ""
+      ]      
     ]
   }
 }
