@@ -303,6 +303,27 @@
           }
         },
         ""
+      ] ,     
+      [
+        "2017-10-19",
+        {
+          "text": "Bacterial genomics",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/fuzweqzuhy74uee/Lecture%208.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Due 2017-10-31 [before noon EST; send to me by e-mail]",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/s4r200h78heaubg/Midterm.pdf?dl=0",
+            "link-text": "download assignment",
+            "type": "document"
+          }
+        },
+        ""
       ]      
     ]
   }
