@@ -324,6 +324,25 @@
           }
         },
         ""
+      ] ,
+      [
+        "2017-11-02",
+        {
+          "text": "Viral pathogens",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/6qo3fvyooj0xaxp/Lecture%209.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Due 2017-11-09 [prepare a short presentation; send to me by e-mail]",
+          "subtext": {
+            "text": "last slide of lecture nodes describes the assignment"
+          }
+        },
+        ""
       ]      
     ]
   }
