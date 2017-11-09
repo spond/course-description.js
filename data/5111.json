@@ -343,6 +343,25 @@
           }
         },
         ""
+      ],
+      [
+        "2017-11-09",
+        {
+          "text": "Metagenomics",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/85achkd9rfp62ow/Lecture%2010.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Due 2017-11-16 [prepare a short presentation; send to me by e-mail]",
+          "subtext": {
+            "text": "last slide of lecture nodes describes the assignment"
+          }
+        },
+        ""
       ]      
     ]
   }
