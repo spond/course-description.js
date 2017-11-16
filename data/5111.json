@@ -362,7 +362,21 @@
           }
         },
         ""
-      ]      
+      ],      
+        [
+            "2017-11-16",
+            {
+              "text": "Predicting phenotype from genotype",
+              "subtext": {
+                "url": "https://www.dropbox.com/s/rmpw3cnp9igccs0/Lecture%2011.pdf?dl=0",
+                "link-text": "download slides",
+                "type": "document"
+              }
+            },
+            "",
+            "",
+            ""
+        ]
     ]
   }
 }
