@@ -376,7 +376,28 @@
             "",
             "",
             ""
-        ]
+        ],
+     [
+        "2017-11-30",
+        {
+          "text": "Ethical issues",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/5luf5wiukrc8nkl/Lecture%2012.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Due 2017-12-20 [before noon EST; send to me by e-mail]",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/4eafh10isommkto/BIOL%203111-5111%20Final%20Project.pdf?dl=0",
+            "link-text": "download assignment",
+            "type": "document"
+          }
+        },
+        ""
+      ]     
     ]
   }
 }
