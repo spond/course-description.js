@@ -397,7 +397,22 @@
           }
         },
         ""
+      ]    ,
+          [
+        "2017-12-07",
+        {
+          "text": "Molecular Epidemiology of HIV-1",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/6vag4z3s0m9ylc8/Lecture%2013.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        "",
+        ""
       ]     
+ 
     ]
   }
 }
