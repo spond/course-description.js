@@ -92,7 +92,31 @@
 
     },
 
-
+    "Course Materials": {
+        "rows": [
+            ["Date", "Topic", "Reading","Assignments","Solution"],
+            [
+                "2018-01-17", {
+                    "text": "Introduction",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/td1f3j4k4jgnnjz/Lecture%201.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                { "text": "Due 2018-01-24 [submit before deadline, prepare to discuss in class and answer questions]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/55wnymzvta9yrre/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
+                ""
+            ]
+        ]
+    },
+    
     "Grading": {
         "subtext": "1000 points total, no make-up opportunities given except for exigent circumstances",
         "rows": [
@@ -108,7 +132,7 @@
             ["Homework", {
                 "text": "Most class period students will be given an assignment to carry out using software and skills learned during the class. Students will be expected to give short in-class presentations at least once a semester. ",
                 "subtext": {
-                    "text": "400 pts",
+                    "text": "350 pts",
                     "type": "label",
                     "inline": true
                 }
@@ -116,7 +140,7 @@
             ["Independent Project", {
                 "text": "The independent project report",
                 "subtext": {
-                    "text": "350 pts",
+                    "text": "400 pts",
                     "type": "label",
                     "inline": true
                 }
