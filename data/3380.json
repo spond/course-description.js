@@ -132,6 +132,25 @@
                     }
                 },
                 ""
+            ],
+            [
+                "2018-01-31", {
+                    "text": "Short read mapping",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/mfwhmvnk6usg7xn/Lecture%203.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                { "text": "Due 2018-02-07 [submit before deadline, prepare to discuss in class and answer questions]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/6bnm17cvf49wxx6/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
+                ""
             ]
         ]
     },
