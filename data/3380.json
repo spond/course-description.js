@@ -143,7 +143,26 @@
                     }
                 },
                 "",
-                { "text": "Due 2018-02-07 [submit before deadline, prepare to discuss in class and answer questions]",
+                { "text": "Due 2018-02-07 [Replaced with HW4 assignment]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/6bnm17cvf49wxx6/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
+                ""
+            ],
+            [
+                "2018-02-07", {
+                    "text": "Variant calling I",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/17q2iwlu9ltdbjx/Lecture%204.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                { "text": "Due 2018-02-15 [submit before deadline, prepare to discuss in class and answer questions]",
                     "subtext": {
                         "url": "https://www.dropbox.com/s/6bnm17cvf49wxx6/Assignment.pdf?dl=0",
                         "link-text": "download assignment",
