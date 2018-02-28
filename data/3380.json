@@ -187,7 +187,27 @@
                     }
                 },
                 ""
+            ],
+            [
+                "2018-02-28", {
+                    "text": "RNA-Seq",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/1y3r97gwen1a71l/Lecture%207.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                { "text": "Due 2018-03-12 [submit before deadline, prepare to discuss in class and answer questions]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/2s2weor7adwlcpp/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
+                ""
             ]
+
 
         ]
     },
