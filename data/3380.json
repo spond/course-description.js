@@ -198,9 +198,28 @@
                     }
                 },
                 "",
-                { "text": "Due 2018-03-12 [submit before deadline, prepare to discuss in class and answer questions]",
+                { "text": "Due 2018-03-16 [submit before deadline, prepare to discuss in class and answer questions]",
                     "subtext": {
                         "url": "https://www.dropbox.com/s/2s2weor7adwlcpp/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
+                ""
+            ],
+            [
+                "2018-03-14", {
+                    "text": "Genome assembly",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/80l8z0da31a5fy7/Lecture%208.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                { "text": "Due 2018-03-21 [submit before deadline, prepare to discuss in class and answer questions]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/zlgbizyj50wdiy3/Assignment.pdf?dl=0",
                         "link-text": "download assignment",
                         "type": "document"
                     }
