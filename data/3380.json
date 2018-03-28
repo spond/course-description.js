@@ -225,7 +225,25 @@
                     }
                 },
                 ""
+                
+            ],
+            [
+                "2018-03-28", {
+                    "text": "Multiple sequence alignment",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/gqieswv2su2u6ua/Lecture%209.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                { "text": "Due 2018-04-04 [submit before deadline, prepare to discuss in class and answer questions]",
+                    "subtext": "Forthcoming"
+                },
+                ""
+                
             ]
+
 
 
         ]
