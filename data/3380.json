@@ -237,8 +237,12 @@
                     }
                 },
                 "",
-                { "text": "Due 2018-04-04 [submit before deadline, prepare to discuss in class and answer questions]",
-                    "subtext": "Forthcoming"
+               { "text": "Due 2018-04-04 [submit before deadline, prepare to discuss in class and answer questions]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/zm1xmq0tnhns2v0/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
                 },
                 ""
                 
