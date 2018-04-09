@@ -246,8 +246,27 @@
                 },
                 ""
                 
+            ],
+            [
+                "2018-04-04", {
+                    "text": "Basic phylogenetics",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/1djezep9pobm5ka/Lecture10.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+               { "text": "Due 2018-04-11 [submit before deadline, prepare to discuss in class and answer questions]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/l9ekqmxc1jc4s94/HW8.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
+                ""
+                
             ]
-
 
 
         ]
