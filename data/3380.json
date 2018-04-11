@@ -266,7 +266,23 @@
                 },
                 ""
                 
+            ],
+                       
+            [
+                "2018-04-11", {
+                    "text": "Understanding statistical significance and method performance",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/27qdhi660z6fkpz/Lecture11.key?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                "",
+                ""
+                
             ]
+
 
 
         ]
