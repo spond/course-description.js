@@ -281,7 +281,44 @@
                 "",
                 ""
                 
+            ],
+            
+             [
+                "2018-04-18", {
+                    "text": "Metagenomics/mircobiome",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/g0ixdtxw0j9220q/Lecture%2012.pdf?dl=0",
+                        "link-text": "download slides",
+                        "type": "document"
+                    }
+                },
+                "",
+                { "text": "Due 2018-04-25 [submit before deadline, prepare to discuss in class and answer questions. LAST CHANCE FOR IN CLASS PARTICIPATION]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/iwgtk7gyxop9qb4/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
+                ""
+                
+            ],
+             [
+                "2018-05-09", {
+                    "text": "Final Project [submit before deadline]",
+                    "subtext": {
+                        "url": "https://www.dropbox.com/s/cbeunjkuj5rozo2/Assignment.pdf?dl=0",
+                        "link-text": "download assignment",
+                        "type": "document"
+                    }
+                },
+                "",
+                "",
+                ""
+                
             ]
+
+           
 
 
 
