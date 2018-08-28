@@ -36,7 +36,7 @@
       [
         "Location",
         {
-          "text": "BIOSCI 332"
+          "text": "SERC 00116"
         }
       ],
       [
@@ -180,239 +180,26 @@
         "Solution"
       ],
       [
-        "2017-09-07",
+        "2018-08-30",
         {
-          "text": "Similarity Searching and Basic Alignment",
+          "text": "Introduction",
           "subtext": {
-            "url": "https://www.dropbox.com/s/stt6k0cgdjv2s5p/Lecture%202.pdf?dl=0",
+            "url": "https://www.dropbox.com/s/mr0c33qpev2ahiw/Lecture%201.pdf?dl=0",
             "link-text": "download slides",
             "type": "document"
           }
         },
         "",
         {
-          "text": "Due 2017-09-14 [prepare to discuss in class and answer questions]",
+          "text": "None for this week",
           "subtext": {
-            "url": "https://www.dropbox.com/s/ib1m3o7ez84hv94/HW1.pdf?dl=0",
-            "link-text": "download assignment",
+            "url": "",
+            "link-text": "",
             "type": "document"
           }
         },
         ""
-      ],
-      [
-        "2017-09-14",
-        {
-          "text": "Multiple sequence alignment and phylogenies",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/vzgen0r063cigx2/Lecture%203.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Due 2017-09-21 [prepare to discuss in class and answer questions]",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/sy9q6c5ux5kf91o/HW2.pdf?dl=0",
-            "link-text": "download assignment",
-            "type": "document"
-          }
-        },
-       {
-          "text": "HW2 solution",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/9hbcq3d4uday1ju/solution.pdf?dl=0",
-            "link-text": "download",
-            "type": "document"
-          }
-        }
-      ],
-      [
-        "2017-09-21",
-        {
-          "text": "Genetic basis of human disease (part 1)",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/ee28wuwyknwuand/Lecture%204.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Due 2017-09-28 [prepare a short presentation; send to me by e-mail]",
-          "subtext": {
-            "text": "last slide of lecture nodes describes the assignment"
-          }
-        },
-        ""
-      ],
-      [
-        "2017-09-28",
-        {
-          "text": "Genetic basis of human disease (part 2)",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/1kg987u2l33fwg8/Lecture%205.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Due 2017-10-05 [prepare a short presentation; send to me by e-mail]",
-          "subtext": {
-            "text": "last slide of lecture nodes describes the assignment"
-          }
-        },
-        ""
-      ],
-      [
-        "2017-10-05",
-        {
-          "text": "Genetic basis of human disease (part 3)",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/fozy3jdo8i0nw2b/Lecture%206.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Due 2017-10-12 [prepare a short presentation; send to me by e-mail]",
-          "subtext": {
-            "text": "last slide of lecture nodes describes the assignment"
-          }
-        },
-        ""
-      ],
-      [
-        "2017-10-12",
-        {
-          "text": "Genetic basis of human disease (part 4)",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/eu7zms77g0x0ftl/Lecture%207.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Due 2017-10-19 [prepare a short presentation; send to me by e-mail]",
-          "subtext": {
-            "text": "last slide of lecture nodes describes the assignment"
-          }
-        },
-        ""
-      ] ,     
-      [
-        "2017-10-19",
-        {
-          "text": "Bacterial genomics",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/fuzweqzuhy74uee/Lecture%208.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Due 2017-10-31 [before noon EST; send to me by e-mail]",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/s4r200h78heaubg/Midterm.pdf?dl=0",
-            "link-text": "download assignment",
-            "type": "document"
-          }
-        },
-        ""
-      ] ,
-      [
-        "2017-11-02",
-        {
-          "text": "Viral pathogens",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/6qo3fvyooj0xaxp/Lecture%209.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Due 2017-11-09 [prepare a short presentation; send to me by e-mail]",
-          "subtext": {
-            "text": "last slide of lecture nodes describes the assignment"
-          }
-        },
-        ""
-      ],
-      [
-        "2017-11-09",
-        {
-          "text": "Metagenomics",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/85achkd9rfp62ow/Lecture%2010.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Due 2017-11-16 [prepare a short presentation; send to me by e-mail]",
-          "subtext": {
-            "text": "last slide of lecture nodes describes the assignment"
-          }
-        },
-        ""
-      ],      
-        [
-            "2017-11-16",
-            {
-              "text": "Predicting phenotype from genotype",
-              "subtext": {
-                "url": "https://www.dropbox.com/s/rmpw3cnp9igccs0/Lecture%2011.pdf?dl=0",
-                "link-text": "download slides",
-                "type": "document"
-              }
-            },
-            "",
-            "",
-            ""
-        ],
-     [
-        "2017-11-30",
-        {
-          "text": "Ethical issues",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/5luf5wiukrc8nkl/Lecture%2012.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Due 2017-12-20 [before noon EST; send to me by e-mail]",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/4eafh10isommkto/BIOL%203111-5111%20Final%20Project.pdf?dl=0",
-            "link-text": "download assignment",
-            "type": "document"
-          }
-        },
-        ""
-      ]    ,
-          [
-        "2017-12-07",
-        {
-          "text": "Molecular Epidemiology of HIV-1",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/6vag4z3s0m9ylc8/Lecture%2013.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        "",
-        ""
-      ]     
- 
+      ]
     ]
   }
 }
