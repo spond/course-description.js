@@ -212,7 +212,26 @@
           }
         },
         ""
-      ]
+      ],
+      [
+            "2018-09-06", {
+                "text": "Similarity Searching and Basic Alignment",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/ah2bl8srn1r83v5/Lecture%202.pdf?dl=0",
+                    "link-text": "download slides",
+                    "type": "document"
+                }
+            },
+            "",
+            { "text": "Due 2018-09-12 [submit before deadline, prepare to discuss in class and answer questions]",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/hwzcwswxsny0j9z/HW1.pdf?dl=0",
+                    "link-text": "download assignment",
+                    "type": "document"
+                }
+            },
+            ""
+        ]
     ]
   }
 }
