@@ -21,7 +21,20 @@
           }
         }
       ],
-      [
+       [
+        "Teaching assistant",
+        {
+          "text": "Sudip Sharma",
+          "subtext": {
+            "url": "mailto:#",
+            "link-text": "sudip.sharma@temple.edu",
+            "print-text": "sudip.sharma@temple.edu",
+            "type": "e-mail",
+            "inline": true
+          }
+        }
+      ],
+     [
         "Offered",
         {
           "text": "Fall 2018"
