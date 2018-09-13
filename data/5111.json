@@ -231,7 +231,27 @@
                 }
             },
             ""
+        ],
+        [
+            "2018-09-13", {
+                "text": "Phylogenies",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/n3p83fjdu2dvyfe/Lecture%203.pdf?dl=0",
+                    "link-text": "download slides",
+                    "type": "document"
+                }
+            },
+            "",
+            { "text": "Due 2018-09-19 [submit before deadline, prepare to discuss in class and answer questions]",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/dlr8n871itl0zm2/HW2.pdf?dl=0",
+                    "link-text": "download assignment",
+                    "type": "document"
+                }
+            },
+            ""
         ]
+
     ]
   }
 }

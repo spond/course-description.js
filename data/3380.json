@@ -1,6 +1,6 @@
 {
     "Title": {
-        "text": " BIOL 3380 / 8250 ",
+        "text": " BIOL 3113",
         "subtext": {
             "text": "Genome Analytics",
             "inline": true
@@ -20,7 +20,7 @@
                 }
             }],
             ["Offered", {
-                "text": "Spring 2018"
+                "text": "Spring 2019"
             }],
             ["Time", {
                 "text": "Wednesdays, 5:30-8:00 pm"
@@ -37,7 +37,7 @@
                 }
             }],
             ["Prerequisites", {
-                "text": "Biology 2112, Computer Literacy",
+                "text": "Biology 2112, and one of Biology 3111 / Biology 3112",
                 "type": "label",
                 "subtext": {
                     "text": "C or better",
@@ -92,239 +92,7 @@
 
     },
 
-    "Course Materials": {
-        "rows": [
-            ["Date", "Topic", "Reading","Assignments","Solution"],
-            [
-                "2018-01-17", {
-                    "text": "Introduction",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/td1f3j4k4jgnnjz/Lecture%201.pdf?dl=0",
-                        "link-text": "download slides",
-                        "type": "document"
-                    }
-                },
-                "",
-                { "text": "Due 2018-01-24 [submit before deadline, prepare to discuss in class and answer questions]",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/55wnymzvta9yrre/Assignment.pdf?dl=0",
-                        "link-text": "download assignment",
-                        "type": "document"
-                    }
-                },
-                ""
-            ],
-            [
-                "2018-01-24", {
-                    "text": "Similarity Searching and Basic Alignment",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/5dow1rlg05czybz/Lecture%202.pdf?dl=0",
-                        "link-text": "download slides",
-                        "type": "document"
-                    }
-                },
-                "",
-                { "text": "Due 2018-01-31 [submit before deadline, prepare to discuss in class and answer questions]",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/3trzz4j30lte3k2/Assignment.pdf?dl=0",
-                        "link-text": "download assignment",
-                        "type": "document"
-                    }
-                },
-                ""
-            ],
-            [
-                "2018-01-31", {
-                    "text": "Short read mapping",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/mfwhmvnk6usg7xn/Lecture%203.pdf?dl=0",
-                        "link-text": "download slides",
-                        "type": "document"
-                    }
-                },
-                "",
-                { "text": "Due 2018-02-07 [Replaced with HW4 assignment]",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/6bnm17cvf49wxx6/Assignment.pdf?dl=0",
-                        "link-text": "download assignment",
-                        "type": "document"
-                    }
-                },
-                ""
-            ],
-            [
-                "2018-02-07", {
-                    "text": "Variant calling I",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/17q2iwlu9ltdbjx/Lecture%204.pdf?dl=0",
-                        "link-text": "download slides",
-                        "type": "document"
-                    }
-                },
-                "",
-                { "text": "Due 2018-02-15 [submit before deadline, prepare to discuss in class and answer questions]",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/0r12y65aujuguwx/Assignment.pdf?dl=0",
-                        "link-text": "download assignment",
-                        "type": "document"
-                    }
-                },
-                ""
-            ],
-            [
-                "2018-02-14", {
-                    "text": "Variant calling II",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/pz4n6rxmg0difnu/Lecture%205.pdf?dl=0",
-                        "link-text": "download slides",
-                        "type": "document"
-                    }
-                },
-                "",
-                { "text": "Due 2018-02-22 [submit before deadline, prepare to discuss in class and answer questions]",
-                    "subtext": {
-                        "text" : "Pending"
-                    }
-                },
-                ""
-            ],
-            [
-                "2018-02-28", {
-                    "text": "RNA-Seq",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/1y3r97gwen1a71l/Lecture%207.pdf?dl=0",
-                        "link-text": "download slides",
-                        "type": "document"
-                    }
-                },
-                "",
-                { "text": "Due 2018-03-16 [submit before deadline, prepare to discuss in class and answer questions]",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/2s2weor7adwlcpp/Assignment.pdf?dl=0",
-                        "link-text": "download assignment",
-                        "type": "document"
-                    }
-                },
-                ""
-            ],
-            [
-                "2018-03-14", {
-                    "text": "Genome assembly",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/80l8z0da31a5fy7/Lecture%208.pdf?dl=0",
-                        "link-text": "download slides",
-                        "type": "document"
-                    }
-                },
-                "",
-                { "text": "Due 2018-03-21 [submit before deadline, prepare to discuss in class and answer questions]",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/zlgbizyj50wdiy3/Assignment.pdf?dl=0",
-                        "link-text": "download assignment",
-                        "type": "document"
-                    }
-                },
-                ""
-                
-            ],
-            [
-                "2018-03-28", {
-                    "text": "Multiple sequence alignment",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/gqieswv2su2u6ua/Lecture%209.pdf?dl=0",
-                        "link-text": "download slides",
-                        "type": "document"
-                    }
-                },
-                "",
-               { "text": "Due 2018-04-04 [submit before deadline, prepare to discuss in class and answer questions]",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/zm1xmq0tnhns2v0/Assignment.pdf?dl=0",
-                        "link-text": "download assignment",
-                        "type": "document"
-                    }
-                },
-                ""
-                
-            ],
-            [
-                "2018-04-04", {
-                    "text": "Basic phylogenetics",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/1djezep9pobm5ka/Lecture10.pdf?dl=0",
-                        "link-text": "download slides",
-                        "type": "document"
-                    }
-                },
-                "",
-               { "text": "Due 2018-04-11 [submit before deadline, prepare to discuss in class and answer questions]",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/l9ekqmxc1jc4s94/HW8.pdf?dl=0",
-                        "link-text": "download assignment",
-                        "type": "document"
-                    }
-                },
-                ""
-                
-            ],
-                       
-            [
-                "2018-04-11", {
-                    "text": "Understanding statistical significance and method performance",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/27qdhi660z6fkpz/Lecture11.key?dl=0",
-                        "link-text": "download slides",
-                        "type": "document"
-                    }
-                },
-                "",
-                "",
-                ""
-                
-            ],
-            
-             [
-                "2018-04-18", {
-                    "text": "Metagenomics/mircobiome",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/g0ixdtxw0j9220q/Lecture%2012.pdf?dl=0",
-                        "link-text": "download slides",
-                        "type": "document"
-                    }
-                },
-                "",
-                { "text": "Due 2018-04-25 [submit before deadline, prepare to discuss in class and answer questions. LAST CHANCE FOR IN CLASS PARTICIPATION]",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/iwgtk7gyxop9qb4/Assignment.pdf?dl=0",
-                        "link-text": "download assignment",
-                        "type": "document"
-                    }
-                },
-                ""
-                
-            ],
-             [
-                "2018-05-09", {
-                    "text": "Final Project [submit before deadline]",
-                    "subtext": {
-                        "url": "https://www.dropbox.com/s/cbeunjkuj5rozo2/Assignment.pdf?dl=0",
-                        "link-text": "download assignment",
-                        "type": "document"
-                    }
-                },
-                "",
-                "",
-                ""
-                
-            ]
 
-           
-
-
-
-        ]
-    },
-    
     "Grading": {
         "subtext": "1000 points total, no make-up opportunities given except for exigent circumstances",
         "rows": [
