@@ -269,6 +269,25 @@
                 }
             },
             ""
+        ],
+        [
+            "2018-09-27", {
+                "text": "Genetic basis of human disease, Part 2",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/lu0e1k1dpd87ell/Lecture%205.pdf?dl=0",
+                    "link-text": "download slides",
+                    "type": "document"
+                }
+            },
+            "",
+            { "text": "Due 2018-10-03 [submit before deadline, prepare to present in class]",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/33unevptpesg0ar/HW4.pdf?dl=0",
+                    "link-text": "download assignment",
+                    "type": "document"
+                }
+            },
+            ""
         ]
 
     ]
