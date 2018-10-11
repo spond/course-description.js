@@ -288,8 +288,33 @@
                 }
             },
             ""
-        ]
-
-    ]
+        ],
+ 		[
+            "2018-10-04/11", {
+                "text": "Genetic basis of human disease, Part 3",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/tpcs2g1oskess14/Lecture%206.pdf?dl=0",
+                    "link-text": "download slides",
+                    "type": "document"
+                }
+            },
+            "",
+            { "text": "MIDTERM due 2018-10-23 [submit before deadline!]",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/2x5j6ctofi199qm/Midterm.pdf?dl=0",
+                    "link-text": "download assignment",
+                    "type": "document"
+                }
+            },
+            ""
+        ],
+ 		[
+            "2018-10-19", {
+                "text": "No class -- take-home midterm "
+            },
+            "",
+            "",
+            ""
+        ]    ]
   }
 }
