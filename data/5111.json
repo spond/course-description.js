@@ -334,7 +334,27 @@
                 }
             },
             ""
+        ],
+        [
+            "2018-11-01", {
+                "text": "Bacterial Genomics",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/7j91acauh3ueek0/Lecture%208.pdf?dl=0",
+                    "link-text": "download slides",
+                    "type": "document"
+                }
+            },
+            "",
+            { "text": "Due 2018-11-07 [submit before deadline, prepare to present in class]",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/64lc5v6piq00dub/HW6.pdf?dl=0",
+                    "link-text": "download assignment",
+                    "type": "document"
+                }
+            },
+            ""
         ]
+
     ]
   }
 }
