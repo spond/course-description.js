@@ -353,6 +353,25 @@
                 }
             },
             ""
+        ],
+        [
+            "2018-11-08", {
+                "text": "Viral Pathogens",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/d02lz0q1e5fkakp/lecture%209.pdf?dl=0",
+                    "link-text": "download slides",
+                    "type": "document"
+                }
+            },
+            "",
+            { "text": "Due 2018-11-14 [submit before deadline, prepare to present in class]",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/ou0h6qrupvinazn/HW7.pdf?dl=0",
+                    "link-text": "download assignment",
+                    "type": "document"
+                }
+            },
+            ""
         ]
 
     ]
