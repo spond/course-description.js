@@ -372,8 +372,23 @@
                 }
             },
             ""
+        ],
+		[
+            "2018-11-29", {
+                "text": "Predicting phenotype from genotype",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/8zmszahinn5bfos/Lecture%2010.pdf?dl=0",
+                    "link-text": "download slides",
+                    "type": "document"
+                }
+            },
+            "",
+            { 
+            	"text": "Only those who still need in class participation",
+                "subtext": "Pick any of the previous topics; must be approved by instructor"
+            },
+            ""
         ]
-
     ]
   }
 }
