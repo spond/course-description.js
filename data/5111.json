@@ -388,6 +388,25 @@
                 "subtext": "Pick any of the previous topics; must be approved by instructor"
             },
             ""
+        ],
+		[
+            "2018-12-06", {
+                "text": "Ethical issues in genomic and personalized medicine",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/kgrsuxk9p878go3/Lecture%2011.pdf?dl=0",
+                    "link-text": "download slides",
+                    "type": "document"
+                }
+            },
+            "",
+            { "text": "FINAL due 2018-12-18 [submit before deadline!]",
+                "subtext": {
+                    "url": "https://www.dropbox.com/s/09kznwhdjr4zbd0/BIOL%203111-5111%20Final%20Project.pdf?dl=0",
+                    "link-text": "download assignment",
+                    "type": "document"
+                }
+            },
+            ""
         ]
     ]
   }
