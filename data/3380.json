@@ -1,6 +1,6 @@
 {
     "Title": {
-        "text": " BIOL 3113",
+        "text": " BIOL 3113/8250",
         "subtext": {
             "text": "Genome Analytics",
             "inline": true
@@ -26,7 +26,7 @@
                 "text": "Wednesdays, 5:30-8:00 pm"
             }],
             ["Location", {
-                "text": "TBD"
+                "text": "BIOSCI 332"
             }],
             ["Office hours", {
                 "text": "SERC 644",
@@ -92,6 +92,38 @@
 
     },
 
+  "Course Materials": {
+    "rows": [
+      [
+        "Date",
+        "Topic",
+        "Reading",
+        "Assignments",
+        "Solution"
+      ],
+      [
+        "2019-01-16",
+        {
+          "text": "Introduction",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/l72ypgvxyhm0rv6/Lecture%201.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Will post one day after class",
+          "subtext": {
+            "url": "",
+            "link-text": "",
+            "type": "document"
+          }
+        },
+        ""
+      ]
+    ]
+    },
 
     "Grading": {
         "subtext": "1000 points total, no make-up opportunities given except for exigent circumstances",
