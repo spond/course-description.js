@@ -121,6 +121,22 @@
           }
         },
         ""
+      ],
+      [
+        "2019-01-23",
+        {
+          "text": "Basic alignment and similarity searches",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/7zqbnjkj2zjdhid/Lecture%202.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "TBA"
+        },
+        ""
       ]
     ]
     },
