@@ -134,7 +134,12 @@
         },
         "",
         {
-          "text": "TBA"
+          "text": "Basic alignment, due Jan 30, 2019 @ 1700 EST",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/b7sx9rfw60cq9v1/Assignment.pdf?dl=0",
+            "link-text": "download assignment",
+            "type": "document"
+          }
         },
         ""
       ]
