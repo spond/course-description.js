@@ -142,7 +142,24 @@
           }
         },
         ""
+      ],
+       [
+        "2019-01-30",
+        {
+          "text": "Short read mapping",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/jz6qufevsrc3gki/Lecture%203.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "TBA" 
+        },
+        ""
       ]
+
     ]
     },
 
