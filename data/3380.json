@@ -155,9 +155,15 @@
         },
         "",
         {
-          "text": "TBA" 
+          "text": "Short read mapping, due Feb 6, 2019 @ 1700 EST",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/wgpmtjt4pg2ftzx/Assignment.pdf?dl=0",
+            "link-text": "download assignment",
+            "type": "document"
+          }
         },
-        ""
+
+	""
       ]
 
     ]
