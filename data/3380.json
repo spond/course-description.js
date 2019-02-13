@@ -164,7 +164,29 @@
         },
 
 	""
+      ],
+      [
+        "2019-02-13",
+        {
+          "text": "Variant calling II",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/d5de82igj7uc1py/Lecture%205.key?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Variant calling, due Feb 20, 2019 @ 1700 EST",
+          "subtext": 
+            "TBD"
+        },
+
+	    ""
       ]
+
+
+
 
     ]
     },
