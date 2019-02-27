@@ -183,11 +183,31 @@
         },
 
 	    ""
+      ],
+      [
+        "2019-02-20",
+        {
+          "text": "Snow day"
+          
+        },
+        "",
+        "",
+	    ""
+      ],
+      [
+        "2019-02-27",
+        {
+          "text": "RNA-Seq",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/fqqlqmy9i8h53ez/Lecture%206.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        "TBD",
+	    ""
       ]
-
-
-
-
     ]
     },
 
