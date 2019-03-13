@@ -207,9 +207,31 @@
         "",
         "TBD",
 	    ""
+      ],
+    [
+        "2019-03-13",
+        {
+          "text": "Genome Assembly",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/9uddcknn6uxaie2/Genome%20Assembly.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Variant calling and Genome Assembly",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/ag04xrdgwkzd2x6/Assignment.pdf?dl=0",
+            "link-text": "download assignment",
+            "type": "document"
+          }
+        },
+
+	""
       ]
     ]
-    },
+   },
 
     "Grading": {
         "subtext": "1000 points total, no make-up opportunities given except for exigent circumstances",
