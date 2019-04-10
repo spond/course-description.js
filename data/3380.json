@@ -259,6 +259,26 @@
         },
         "",
 	    ""
+      ],
+    [
+        "2019-04-10",
+        {
+          "text": "Essential Phylogenetics",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/qxxcerk8dlgspie/Trees.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+	    {
+          "text": "Final project, due May 9th, 2019 @ 00:00 EST; prepare questions to discuss in class next week",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/qcs6ao584v4q5rn/Assignment.pdf?dl=0",
+            "link-text": "download assignment",
+            "type": "document"
+          }
+        }
       ]
     ]
    },
