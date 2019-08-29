@@ -34,10 +34,23 @@
           }
         }
       ],
+       [
+        "Teaching assistant",
+        {
+          "text": "Alexander Lucaci",
+          "subtext": {
+            "url": "mailto:#",
+            "link-text": "tuk13147@temple.edu",
+            "print-text": "tuk13147@temple.edu",
+            "type": "e-mail",
+            "inline": true
+          }
+        }
+      ],
      [
         "Offered",
         {
-          "text": "Fall 2018"
+          "text": "Fall 2019"
         }
       ],
       [
@@ -133,7 +146,7 @@
     "subtext": "1000 points total, no make-up opportunities given except for exigent circumstances",
     "rows": [
       [
-        "Class participation",
+        "Class participation / quizzes",
         {
           "subtext": {
             "text": "250 pts",
@@ -193,7 +206,7 @@
         "Solution"
       ],
       [
-        "2018-08-30",
+        "2019-08-29",
         {
           "text": "Introduction",
           "subtext": {
@@ -204,210 +217,15 @@
         },
         "",
         {
-          "text": "None for this week",
+          "text": "Large-scale GWAS reveals insights into the genetic architecture of same-sex sexual behavior",
           "subtext": {
-            "url": "",
-            "link-text": "",
+            "url": "https://science.sciencemag.org/content/365/6456/eaat7693",
+            "link-text": "view article",
             "type": "document"
           }
         },
         ""
-      ],
-      [
-            "2018-09-06", {
-                "text": "Similarity Searching and Basic Alignment",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/ah2bl8srn1r83v5/Lecture%202.pdf?dl=0",
-                    "link-text": "download slides",
-                    "type": "document"
-                }
-            },
-            "",
-            { "text": "Due 2018-09-12 [submit before deadline, prepare to discuss in class and answer questions]",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/hwzcwswxsny0j9z/HW1.pdf?dl=0",
-                    "link-text": "download assignment",
-                    "type": "document"
-                }
-            },
-            ""
-        ],
-        [
-            "2018-09-13", {
-                "text": "Phylogenies",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/n3p83fjdu2dvyfe/Lecture%203.pdf?dl=0",
-                    "link-text": "download slides",
-                    "type": "document"
-                }
-            },
-            "",
-            { "text": "Due 2018-09-19 [submit before deadline, prepare to discuss in class and answer questions]",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/dlr8n871itl0zm2/HW2.pdf?dl=0",
-                    "link-text": "download assignment",
-                    "type": "document"
-                }
-            },
-            ""
-        ],
-        [
-            "2018-09-20", {
-                "text": "Genetic basis of human disease",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/zny47gthmdo6c3j/Lecture%204.pdf?dl=0",
-                    "link-text": "download slides",
-                    "type": "document"
-                }
-            },
-            "",
-            { "text": "Due 2018-09-19 [submit before deadline, prepare to present in class]",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/gbhjsqjy6vcbfvv/HW3.pdf?dl=0",
-                    "link-text": "download assignment",
-                    "type": "document"
-                }
-            },
-            ""
-        ],
-        [
-            "2018-09-27", {
-                "text": "Genetic basis of human disease, Part 2",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/lu0e1k1dpd87ell/Lecture%205.pdf?dl=0",
-                    "link-text": "download slides",
-                    "type": "document"
-                }
-            },
-            "",
-            { "text": "Due 2018-10-03 [submit before deadline, prepare to present in class]",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/33unevptpesg0ar/HW4.pdf?dl=0",
-                    "link-text": "download assignment",
-                    "type": "document"
-                }
-            },
-            ""
-        ],
- 		[
-            "2018-10-04/11", {
-                "text": "Genetic basis of human disease, Part 3",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/tpcs2g1oskess14/Lecture%206.pdf?dl=0",
-                    "link-text": "download slides",
-                    "type": "document"
-                }
-            },
-            "",
-            { "text": "MIDTERM due 2018-10-23 [submit before deadline!]",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/2x5j6ctofi199qm/Midterm.pdf?dl=0",
-                    "link-text": "download assignment",
-                    "type": "document"
-                }
-            },
-            ""
-        ],
- 		[
-            "2018-10-19", {
-                "text": "No class -- take-home midterm "
-            },
-            "",
-            "",
-            ""
-        ],
-        [
-            "2018-10-25", {
-                "text": "Genetic basis of human disease, Part 4",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/nuqbz3dwz7cj362/Lecture%207.pdf?dl=0",
-                    "link-text": "download slides",
-                    "type": "document"
-                }
-            },
-            "",
-            { "text": "Due 2018-10-31 [submit before deadline, prepare to present in class]",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/hmqz28xbbqj8yfn/HW5.pdf?dl=0",
-                    "link-text": "download assignment",
-                    "type": "document"
-                }
-            },
-            ""
-        ],
-        [
-            "2018-11-01", {
-                "text": "Bacterial Genomics",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/7j91acauh3ueek0/Lecture%208.pdf?dl=0",
-                    "link-text": "download slides",
-                    "type": "document"
-                }
-            },
-            "",
-            { "text": "Due 2018-11-07 [submit before deadline, prepare to present in class]",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/64lc5v6piq00dub/HW6.pdf?dl=0",
-                    "link-text": "download assignment",
-                    "type": "document"
-                }
-            },
-            ""
-        ],
-        [
-            "2018-11-08", {
-                "text": "Viral Pathogens",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/d02lz0q1e5fkakp/lecture%209.pdf?dl=0",
-                    "link-text": "download slides",
-                    "type": "document"
-                }
-            },
-            "",
-            { "text": "Due 2018-11-14 [submit before deadline, prepare to present in class]",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/ou0h6qrupvinazn/HW7.pdf?dl=0",
-                    "link-text": "download assignment",
-                    "type": "document"
-                }
-            },
-            ""
-        ],
-		[
-            "2018-11-29", {
-                "text": "Predicting phenotype from genotype",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/8zmszahinn5bfos/Lecture%2010.pdf?dl=0",
-                    "link-text": "download slides",
-                    "type": "document"
-                }
-            },
-            "",
-            { 
-            	"text": "Only those who still need in class participation",
-                "subtext": "Pick any of the previous topics; must be approved by instructor"
-            },
-            ""
-        ],
-		[
-            "2018-12-06", {
-                "text": "Ethical issues in genomic and personalized medicine",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/kgrsuxk9p878go3/Lecture%2011.pdf?dl=0",
-                    "link-text": "download slides",
-                    "type": "document"
-                }
-            },
-            "",
-            { "text": "FINAL due 2018-12-18 [submit before deadline!]",
-                "subtext": {
-                    "url": "https://www.dropbox.com/s/09kznwhdjr4zbd0/BIOL%203111-5111%20Final%20Project.pdf?dl=0",
-                    "link-text": "download assignment",
-                    "type": "document"
-                }
-            },
-            ""
-        ]
+      ]
     ]
   }
 }
