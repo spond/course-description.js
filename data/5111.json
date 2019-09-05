@@ -225,6 +225,27 @@
           }
         },
         ""
+      ],
+      [
+        "2019-09-05",
+        {
+          "text": "Similarity Searching and Basic Alignment",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/zdc5y1aviaq1hpl/Lecture%202.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Using NCBI's BLAST",
+          "subtext": {
+            "url": "https://www.ncbi.nlm.nih.gov/Class/BLAST/blast_course.short.html",
+            "link-text": "view tutorial",
+            "type": "document"
+          }
+        },
+        ""
       ]
     ]
   }
