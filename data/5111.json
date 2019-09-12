@@ -246,6 +246,27 @@
           }
         },
         ""
+      ],
+      [
+        "2019-09-12",
+        {
+          "text": "Genetic Basis of Human Disease (I)",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/q1vchxch1guognu/Lecture%203.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Common vs. Rare Allele Hypotheses for Complex Diseases",
+          "subtext": {
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2914559/pdf/nihms214356.pdf",
+            "link-text": "view article",
+            "type": "document"
+          }
+        },
+        ""
       ]
     ]
   }
