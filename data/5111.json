@@ -267,6 +267,27 @@
           }
         },
         ""
+      ],
+      [
+        "2019-09-19",
+        {
+          "text": "Genetic Basis of Human Disease (II)",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/gru9121ip8awnvw/Lecture%204.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Noninvasive prenatal screening for fetal aneuploidy",
+          "subtext": {
+            "url": "https://www.nature.com/articles/gim201697.pdf",
+            "link-text": "view article",
+            "type": "document"
+          }
+        },
+        ""
       ]
     ]
   }
