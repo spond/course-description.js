@@ -288,6 +288,27 @@
           }
         },
         ""
+      ],
+      [
+        "2019-09-26",
+        {
+          "text": "Genetic Basis of Human Disease (III)",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/z3wnzfyv0bwq5xr/Lecture%205.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "",
+          "subtext": {
+            "url": "https://www.nature.com/articles/s41562-019-0557-y",
+            "link-text": "view article",
+            "type": "document"
+          }
+        },
+        ""
       ]
     ]
   }
