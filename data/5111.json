@@ -309,6 +309,27 @@
           }
         },
         ""
+      ],
+      [
+        "2019-10-03",
+        {
+          "text": "Genetic Basis of Human Disease (4)",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/pxqcemconuoxzy4/Lecture%206.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Shared genetic origin of asthma, hay fever and eczema elucidates allergic disease biology",
+          "subtext": {
+            "url": "https://www.nature.com/articles/ng.3985",
+            "link-text": "view article",
+            "type": "document"
+          }
+        },
+        ""
       ]
     ]
   }
