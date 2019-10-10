@@ -330,6 +330,27 @@
           }
         },
         ""
+      ],
+      [
+        "2019-10-03",
+        {
+          "text": "Bacterial Genomics",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/p21osmojoxw114i/Lecture%207.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Evolutionary consequences of drug resistance: shared principles across diverse targets and organisms",
+          "subtext": {
+            "url": "https://www.nature.com/articles/nrg3922",
+            "link-text": "view article",
+            "type": "document"
+          }
+        },
+        ""
       ]
     ]
   }
