@@ -386,7 +386,41 @@
         "",
         "Midterm due 11/04/2019",
         ""
+      ],
+      [
+        "2019-11-07",
+        {
+          "text": "Molecular Epidemiology",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/5cgsc5vdd7i8ydd/Molecular%20Epi.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+		{
+          "text": "HIV-1 and HCV sequences from Libyan outbreak",
+          "subtext": {
+            "url": "https://www.nature.com/articles/444836a",
+            "link-text": "view article",
+            "type": "document"
+          }
+        }        
+      ],
+      [
+        "",
+        "",
+        "",
+		{
+          "text": "Additional background",
+          "subtext": {
+            "url": "https://evolution.berkeley.edu/evolibrary/news/070101_libya",
+            "link-text": "view article",
+            "type": "document"
+          }
+        }        
       ]
     ]
+    
   }
 }
