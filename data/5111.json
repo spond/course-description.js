@@ -420,7 +420,27 @@
           }
         }        
       ]
-    ]
+    ],
+    [
+        "2019-12-05",
+        {
+          "text": "Predicting Phenotype from Genotype",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/jigiykdig52o7va/Lecture%2012.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+		{
+          "text": "Final Project (due Dec 17th, 2019)",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/j36b6awu0x753ba/BIOL%203111-5111%20Final%20Project.pdf?dl=0",
+            "link-text": "view assignment ",
+            "type": "document"
+          }
+        }        
+      ],
     
   }
 }
