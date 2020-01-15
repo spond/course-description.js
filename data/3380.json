@@ -1,6 +1,6 @@
 {
     "Title": {
-        "text": " BIOL 3113/8250",
+        "text": " BIOL 3113",
         "subtext": {
             "text": "Genome Analytics",
             "inline": true
@@ -20,7 +20,7 @@
                 }
             }],
             ["Offered", {
-                "text": "Spring 2019"
+                "text": "Spring 2020"
             }],
             ["Time", {
                 "text": "Wednesdays, 5:30-8:00 pm"
@@ -102,183 +102,25 @@
         "Solution"
       ],
       [
-        "2019-01-16",
+        "2020-01-15",
         {
           "text": "Introduction",
           "subtext": {
-            "url": "https://www.dropbox.com/s/l72ypgvxyhm0rv6/Lecture%201.pdf?dl=0",
+            "url": "https://www.dropbox.com/s/a25supesaviqqgs/Lecture%201.pdf?dl=0",
             "link-text": "download slides",
             "type": "document"
           }
         },
         "",
         {
-          "text": "Sequence QC, due Jan 23, 2019 @ 1700 EST",
+          "text": "Sequence QC, due Jan 22, 2020 @ 1700 EST",
           "subtext": {
-            "url": "https://www.dropbox.com/s/rg7zcpm8lqlhd1y/Assignment.pdf?dl=0",
+            "url": "https://www.dropbox.com/s/exlw19wdh06k5ps/Assignment.pdf?dl=0",
             "link-text": "download assignment",
             "type": "document"
           }
         },
         ""
-      ],
-      [
-        "2019-01-23",
-        {
-          "text": "Basic alignment and similarity searches",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/7zqbnjkj2zjdhid/Lecture%202.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Basic alignment, due Jan 30, 2019 @ 1700 EST",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/b7sx9rfw60cq9v1/Assignment.pdf?dl=0",
-            "link-text": "download assignment",
-            "type": "document"
-          }
-        },
-        ""
-      ],
-       [
-        "2019-01-30",
-        {
-          "text": "Short read mapping",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/jz6qufevsrc3gki/Lecture%203.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Short read mapping, due Feb 6, 2019 @ 1700 EST",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/wgpmtjt4pg2ftzx/Assignment.pdf?dl=0",
-            "link-text": "download assignment",
-            "type": "document"
-          }
-        },
-
-	""
-      ],
-      [
-        "2019-02-13",
-        {
-          "text": "Variant calling II",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/d5de82igj7uc1py/Lecture%205.key?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Variant calling, due Feb 20, 2019 @ 1700 EST",
-          "subtext": 
-            "TBD"
-        },
-
-	    ""
-      ],
-      [
-        "2019-02-20",
-        {
-          "text": "Snow day"
-          
-        },
-        "",
-        "",
-	    ""
-      ],
-      [
-        "2019-02-27",
-        {
-          "text": "RNA-Seq",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/fqqlqmy9i8h53ez/Lecture%206.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        "TBD",
-	    ""
-      ],
-    [
-        "2019-03-13",
-        {
-          "text": "Genome Assembly",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/9uddcknn6uxaie2/Genome%20Assembly.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Variant calling and Genome Assembly",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/ag04xrdgwkzd2x6/Assignment.pdf?dl=0",
-            "link-text": "download assignment",
-            "type": "document"
-          }
-        },
-
-	""
-      ],
-      [
-        "2019-03-20",
-        {
-          "text": "Statistical Significance and Method Performance",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/oq7lmsma02ytzg4/Lecture%208.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-        {
-          "text": "Carry over from the previous lecture"
-        },
-
-	""
-      ],
-      [
-        "2019-04-03",
-        {
-          "text": "Molecular epidemiology of HIV-1",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/23opwsx211p6oml/Lecture%2010.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-	    ""
-      ],
-    [
-        "2019-04-10",
-        {
-          "text": "Essential Phylogenetics",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/qxxcerk8dlgspie/Trees.pdf?dl=0",
-            "link-text": "download slides",
-            "type": "document"
-          }
-        },
-        "",
-	    {
-          "text": "Final project, due May 9th, 2019 @ 00:00 EST; prepare questions to discuss in class next week",
-          "subtext": {
-            "url": "https://www.dropbox.com/s/qcs6ao584v4q5rn/Assignment.pdf?dl=0",
-            "link-text": "download assignment",
-            "type": "document"
-          }
-        }
       ]
     ]
    },
