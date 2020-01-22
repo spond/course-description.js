@@ -121,6 +121,27 @@
           }
         },
         ""
+      ],
+      [
+        "2020-01-22",
+        {
+          "text": "Similarity Searching",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/j7928r1qjv83pjx/Lecture%202.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Similarity Searching, due Jan 29, 2020 @ 1700 EST",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/6qx8kwbhjvyaaym/Assignment.pdf?dl=0",
+            "link-text": "download assignment",
+            "type": "document"
+          }
+        },
+        ""
       ]
     ]
    },
