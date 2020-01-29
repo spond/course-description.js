@@ -142,6 +142,27 @@
           }
         },
         ""
+      ],
+      [
+        "2020-01-29",
+        {
+          "text": "Short Read Mapping",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/4of13erz4tdpy69/Lecture%203.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Short read mapping, due Feb 05, 2020 @ 1800 EST",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/fz9ta5cic4ozb8x/Assignment.pdf?dl=0",
+            "link-text": "download assignment",
+            "type": "document"
+          }
+        },
+        ""
       ]
     ]
    },
