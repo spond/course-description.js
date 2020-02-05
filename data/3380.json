@@ -163,6 +163,26 @@
           }
         },
         ""
+      ],
+      [
+        "2020-02-05",
+        {
+          "text": "Variant Calling I",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/5yd82i7ald0ff3m/Lecture%204.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Short read mapping, due Feb 12, 2020 @ 1800 EST",
+          "subtext": {
+            "text": "To be posted",
+            "type": "document"
+          }
+        },
+        ""
       ]
     ]
    },
