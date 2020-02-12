@@ -176,7 +176,23 @@
         },
         "",
         {
-          "text": "Short read mapping, due Feb 12, 2020 @ 1800 EST",
+          "text": "N/A"
+        },
+        ""
+      ],
+      [
+        "2020-02-12",
+        {
+          "text": "Variant Calling II",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/j8nx4w1nxcg59zl/Lecture%205.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "Short read mapping, due Feb 19, 2020 @ 1800 EST",
           "subtext": {
             "text": "To be posted",
             "type": "document"
