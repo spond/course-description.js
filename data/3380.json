@@ -199,6 +199,27 @@
           }
         },
         ""
+      ],
+      [
+        "2020-02-19",
+        {
+          "text": "RNA-SEQ",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/q2ylf3kttyfpi7g/Lecture%206.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "FreeBayes tutorial, due Feb 26, 2020 @ 1800 EST",
+          "subtext":{
+            "url": "https://galaxyproject.github.io/training-material/topics/variant-analysis/tutorials/dip/tutorial.html",
+            "link-text": "Submit Galaxy history with the completed tutorial for my review",
+            "type": "document"
+         }
+        },
+        ""
       ]
     ]
    },
