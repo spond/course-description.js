@@ -220,6 +220,27 @@
          }
         },
         ""
+      ],
+      [
+        "2020-02-26",
+        {
+          "text": "Genome Assembly",
+          "subtext": {
+            "url": "https://www.dropbox.com/s/ggivt277wx31rce/Genome%20Assembly.pdf?dl=0",
+            "link-text": "download slides",
+            "type": "document"
+          }
+        },
+        "",
+        {
+          "text": "COVID-19 genome assembly tutorial",
+          "subtext":{
+            "url": "https://www.biorxiv.org/content/10.1101/2020.02.21.959973v2",
+            "link-text": "background reading / assignment to follow",
+            "type": "document"
+         }
+        },
+        ""
       ]
     ]
    },
